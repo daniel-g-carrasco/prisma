@@ -1,7 +1,9 @@
 # Prisma
 
-<img src="data/icons/hicolor/scalable/apps/io.github.daniel_g_carrasco.prisma.svg" alt="Icona di Prisma" width="128">
+<img src="data/icons/hicolor/scalable/apps/io.github.daniel_g_carrasco.prisma.svg" alt="Prisma application icon" width="128">
 
-Prisma è un visualizzatore di modelli IFC per Windows e Linux, sviluppato insieme a Meridiana. Il prototipo apre più modelli nella stessa vista 3D e permette di ispezionare gli oggetti e sezionare il modello.
+Prisma is an IFC model viewer for Windows and Linux. The prototype opens several IFC models in a single 3D view, lets you inspect an object's properties and cuts sections through the scene.
 
-Questo repository raccoglie l’icona dell’applicazione nei formati SVG, PNG e ICO. Il trasferimento del visualizzatore in questo repository è in preparazione. Il motore IFC e i comandi 3D condivisi con Meridiana continueranno ad avere una sola implementazione.
+This repository currently contains the application icons in SVG, PNG and Windows ICO formats. The viewer is being moved here from Meridiana. Both applications will continue to share the same IFC engine.
+
+Prisma is licensed under the [GNU General Public License, version 3 or later](LICENSE).
