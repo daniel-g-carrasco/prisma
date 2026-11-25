@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.daniel_g_carrasco.prisma</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <name>Prisma</name>
+  <summary>Development shell for the Prisma IFC viewer</summary>
+  <summary xml:lang="it">Base di sviluppo del visualizzatore IFC Prisma</summary>
+
+  <developer id="io.github.daniel_g_carrasco">
+    <name>Daniel Grasso</name>
+  </developer>
+
+  <description>
+    <p>Prisma is being developed as an IFC model viewer for Windows and Linux. The source preview opens a window in English or Italian. Opening and displaying models is planned.</p>
+    <p xml:lang="it">Prisma è in sviluppo come visualizzatore di modelli IFC per Windows e Linux. L'anteprima da sorgente apre una finestra in inglese o italiano. L'apertura e la visualizzazione dei modelli sono previste.</p>
+  </description>
+
+  <launchable type="desktop-id">io.github.daniel_g_carrasco.prisma.desktop</launchable>
+  <url type="homepage">https://github.com/daniel-g-carrasco/prisma</url>
+  <url type="bugtracker">https://github.com/daniel-g-carrasco/prisma/issues</url>
+  <url type="vcs-browser">https://github.com/daniel-g-carrasco/prisma</url>
+  <content_rating type="oars-1.1"/>
+</component>

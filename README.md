@@ -11,10 +11,11 @@
   <a href="#explore-a-model">Explore a model</a> ·
   <a href="#section-box">Section box</a> ·
   <a href="#development-status">Development status</a> ·
+  <a href="CONTRIBUTING.md">Contributing</a> ·
   <a href="LICENSE">Licence</a>
 </p>
 
-Prisma is a desktop viewer for **Industry Foundation Classes (IFC)** models on Windows and Linux. Open a building and a second discipline’s model in the same view, then use a section box to look inside. The source IFC files stay unchanged as you move the camera or adjust a cut.
+Prisma is being developed as a desktop viewer for **Industry Foundation Classes (IFC)** models on Windows and Linux. In the prototype, you can open a building and a second discipline’s model in the same view, then use a section box to look inside. The source IFC files stay unchanged as you move the camera or adjust a cut.
 
 ## Explore a model
 
@@ -38,9 +39,11 @@ The prototype supports the **Model Context Protocol (MCP)**. A local client can 
 
 ## Development status
 
-Prisma grew out of the IFC viewer in [Meridiana](https://github.com/daniel-g-carrasco/meridiana). The two applications share the IFC engine so that fixes to geometry and object inspection can serve both.
+Prisma grew out of the IFC viewer in [Meridiana](https://github.com/daniel-g-carrasco/meridiana). The standalone viewer will use the shared IFC engine so that fixes to geometry and object inspection can serve both applications.
 
-The features illustrated above run in the development prototype. Work is under way to bring the viewer into this standalone repository. A Windows installer and a Linux package for Prisma are not yet available.
+This repository provides a Qt development shell with English and Italian interfaces. The model loading, 3D viewport, object inspection, sectioning and local MCP tools shown above are still in the prototype. The shell cannot yet open IFC files. A Windows installer and a Linux package are not yet available.
+
+See [Contributing](CONTRIBUTING.md) for source startup and verification on Windows and Linux.
 
 ## Licence
 

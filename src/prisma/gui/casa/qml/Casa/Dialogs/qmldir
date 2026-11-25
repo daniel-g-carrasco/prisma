@@ -1,0 +1,6 @@
+module Casa.Dialogs
+DialogLayer 1.0 DialogLayer.qml
+DialogWindow 1.0 DialogWindow.qml
+FeedbackPage 1.0 FeedbackPage.qml
+FormFields 1.0 FormFields.qml
+ShortcutsPage 1.0 ShortcutsPage.qml

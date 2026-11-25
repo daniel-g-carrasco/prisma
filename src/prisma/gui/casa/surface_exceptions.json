@@ -1,0 +1,262 @@
+{
+  "DataTable.qml:radius: Theme.radius.CARD; color: Theme.colors.select_bg; border.width: 1; border.color: Theme.colors.accent": {
+    "reason": "The small label that follows the pointer while rows are dragged to a new place (rowsMovable): a mark of the gesture, as the columns' one in DataHeader; no content tree is masked here.",
+    "count": 1
+  },
+  "DataHeader.qml:radius: Theme.radius.CARD; color: Theme.colors.select_bg; border.width: 1; border.color: Theme.colors.accent": {
+    "reason": "The small label that follows the pointer while a column is moved by its title: a mark of the gesture, no content tree is masked here.",
+    "count": 1
+  },
+  "Button.qml:radius: Theme.radius.CONTROL": {
+    "reason": "Atomic button skins, hover and focus strokes; no content tree is masked here.",
+    "count": 1
+  },
+  "Button.qml:Rectangle { anchors.fill: parent; radius: parent.radius": {
+    "reason": "Atomic button skins, hover and focus strokes; no content tree is masked here.",
+    "count": 1
+  },
+  "Button.qml:Rectangle { anchors.fill: parent; radius: parent.radius; color: \"transparent\"": {
+    "reason": "Atomic button skins, hover and focus strokes; no content tree is masked here.",
+    "count": 1
+  },
+  "Card.qml:background: Rectangle { radius: Theme.radius.INNER; color: close.hovered ? Theme.colors.hover : \"transparent\" }": {
+    "reason": "Atomic close-button hover skin in the card heading.",
+    "count": 1
+  },
+  "CheckBox.qml:radius: Theme.radius.INNER": {
+    "reason": "Checkbox mark and focus strokes, not a container.",
+    "count": 1
+  },
+  "CheckBox.qml:Rectangle { anchors.fill: parent; anchors.margins: 1; radius: Theme.radius.INNER - 1": {
+    "reason": "Checkbox mark and focus strokes, not a container.",
+    "count": 1
+  },
+  "CheckBox.qml:visible: Theme.focusRing(root); color: \"transparent\"; radius: Theme.radius.CONTROL + 1": {
+    "reason": "Checkbox mark and focus strokes, not a container.",
+    "count": 1
+  },
+  "ComboBox.qml:background: Rectangle { radius: Theme.radius.CONTROL; color: Theme.colors.field": {
+    "reason": "Atomic field background; the option container inherits Popup Surface.",
+    "count": 1
+  },
+  "DropOutline.qml:radius: Theme.radius.CARD": {
+    "reason": "Drag target outline only, transparent, no content.",
+    "count": 1
+  },
+  "GrowingField.qml:color: Theme.colors.field; radius: Theme.radius.CONTROL": {
+    "reason": "Atomic editing field skin.",
+    "count": 1
+  },
+  "HeldHeads.qml:radius: modelData.radius": {
+    "reason": "Transparent held-section frame strokes, no background or child content.",
+    "count": 1
+  },
+  "HelpMark.qml:width: Theme.icon.CONTROL; height: width; radius: width / 2": {
+    "reason": "Circular help glyph and focus outline.",
+    "count": 1
+  },
+  "HelpMark.qml:anchors.centerIn: disc; width: Theme.icon.CONTROL + ControlMetrics.focusGrow; height: width; radius: width / 2": {
+    "reason": "Circular help glyph and focus outline.",
+    "count": 1
+  },
+  "Menu.qml:PointerShield { radius: popupSurface.radius }": {
+    "reason": "PointerShield uses the owning Surface radius for hit testing, not painting.",
+    "count": 1
+  },
+  "PointerShield.qml:property real radius: 0": {
+    "reason": "Pointer hit-test geometry, no rendered content.",
+    "count": 1
+  },
+  "Popup.qml:PointerShield { radius: popupSurface.radius; visible: root.framed }": {
+    "reason": "PointerShield uses the owning Surface radius for hit testing, not painting.",
+    "count": 1
+  },
+  "RadioButton.qml:radius: width / 2": {
+    "reason": "Radio indicator circles and focus strokes.",
+    "count": 1
+  },
+  "RadioButton.qml:Rectangle { anchors.fill: parent; anchors.margins: 1; radius: width / 2": {
+    "reason": "Radio indicator circles and focus strokes.",
+    "count": 1
+  },
+  "RadioButton.qml:Rectangle { anchors.centerIn: parent; width: parent.width / 2; height: width; radius: width / 2": {
+    "reason": "Radio indicator circles and focus strokes.",
+    "count": 1
+  },
+  "RadioButton.qml:visible: Theme.focusRing(root); color: \"transparent\"; radius: width / 2": {
+    "reason": "Radio indicator circles and focus strokes.",
+    "count": 1
+  },
+  "ScrollBar.qml:radius: root._thumb/2": {
+    "reason": "Scrollbar thumb capsule.",
+    "count": 1
+  },
+  "SectionBand.qml:property real foot: open ? radius : 0": {
+    "reason": "Head band and hover paint primitives only; no user content.",
+    "count": 1
+  },
+  "SectionBand.qml:property real radius: Theme.radius.CONTROL": {
+    "reason": "Head band and hover paint primitives only; no user content.",
+    "count": 1
+  },
+  "SectionBand.qml:radius: root.radius; color: root.ground": {
+    "reason": "Head band and hover paint primitives only; no user content.",
+    "count": 1
+  },
+  "SectionBand.qml:anchors.fill: parent; radius: parent.radius": {
+    "reason": "Head band and hover paint primitives only; no user content.",
+    "count": 1
+  },
+  "SectionHead.qml:visible: root.section !== null && !root.section.nested && root.section.framed && !root.section.framedByPage; radius: root.section ? root.section.radius : 0": {
+    "reason": "Section head background and frame strokes; content belongs to ScrollPage Surface.",
+    "count": 1
+  },
+  "SectionHead.qml:radius: root.section.radius - Theme.line.HAIR / 2": {
+    "reason": "Section head background and frame strokes; content belongs to ScrollPage Surface.",
+    "count": 1
+  },
+  "Segments.qml:background: Rectangle { color: Theme.colors.field; radius: Theme.radius.CONTROL }": {
+    "reason": "Atomic segmented-button background and focus skins.",
+    "count": 1
+  },
+  "Segments.qml:color: Theme.colors.panel; radius: Theme.radius.INNER": {
+    "reason": "Atomic segmented-button background and focus skins.",
+    "count": 1
+  },
+  "Segments.qml:background: Rectangle { radius: Theme.radius.INNER": {
+    "reason": "Atomic segmented-button background and focus skins.",
+    "count": 1
+  },
+  "Slider.qml:radius: 2; color: Theme.colors.line": {
+    "reason": "Slider track and thumb drawing.",
+    "count": 1
+  },
+  "Slider.qml:radius: 2; color: Theme.colors.muted }": {
+    "reason": "Slider track and thumb drawing.",
+    "count": 1
+  },
+  "Slider.qml:width: 16; height: 16; radius: 8; color: Theme.colors.card": {
+    "reason": "Slider track and thumb drawing.",
+    "count": 1
+  },
+  "SplitGround.qml:radius: Theme.radius.CONTROL": {
+    "reason": "Atomic split-button skins and divider strokes.",
+    "count": 1
+  },
+  "SplitGround.qml:radius: Theme.radius.CONTROL; color: root.enabled && root.on && root.commandEnabled ? Theme.colors.press : \"transparent\" }": {
+    "reason": "Atomic split-button skins and divider strokes.",
+    "count": 1
+  },
+  "SplitGround.qml:radius: Theme.radius.CONTROL; color: root.commandEnabled ? root.tone(root.commandDown, root.commandHovered) : \"transparent\" }": {
+    "reason": "Atomic split-button skins and divider strokes.",
+    "count": 1
+  },
+  "SplitGround.qml:height: parent.height; radius: Theme.radius.CONTROL": {
+    "reason": "Atomic split-button skins and divider strokes.",
+    "count": 2
+  },
+  "Tabs.qml:radius: Theme.radius.CONTROL; color: Theme.colors.field }": {
+    "reason": "Atomic tab-strip background.",
+    "count": 1
+  },
+  "TextArea.qml:background: Rectangle { visible: !root.bare; color: Theme.colors.field; radius: Theme.radius.CONTROL": {
+    "reason": "Atomic input-field skin; the scrolling owner is the page Surface.",
+    "count": 1
+  },
+  "TextField.qml:background: Rectangle { color: Theme.colors.field; radius: Theme.radius.CONTROL": {
+    "reason": "Atomic input-field skin.",
+    "count": 1
+  },
+  "ToolTip.qml:background: Rectangle { objectName: \"tipGround\"; opacity: root.held ? 0 : 1; color: Theme.colors.tooltip_bg; radius: Theme.radius.CARD": {
+    "reason": "Tooltip paint skin; tooltip content inset by its own padding (outside K2 registered popup families).",
+    "count": 1
+  },
+  "MenuItem.qml:background: Rectangle { objectName: \"menuItemGround\"; radius: ControlMetrics.menuItemRadius": {
+    "reason": "Atomic menu-row selection and hover skin.",
+    "count": 1
+  },
+  "Pill.qml:Rectangle { visible: root.toggle && !root.none; anchors.fill: parent; radius: parent.radius": {
+    "reason": "Atomic pill-button skins.",
+    "count": 1
+  },
+  "Pill.qml:Rectangle { visible: root.counting; anchors.fill: parent; radius: parent.radius; color: \"transparent\"": {
+    "reason": "Atomic pill-button skins.",
+    "count": 1
+  },
+  "ProgressBar.qml:background: Rectangle { objectName: \"progressGroove\"; radius: height / 2; color: Theme.colors.line_soft }": {
+    "reason": "Progress groove and fill capsules.",
+    "count": 1
+  },
+  "ProgressBar.qml:height: track.height; radius: height / 2": {
+    "reason": "Progress groove and fill capsules.",
+    "count": 1
+  },
+  "Section.qml:property real radius: Theme.radius.CONTROL": {
+    "reason": "Section metrics for painted head bands and transparent frame strokes; content belongs to ScrollPage Surface.",
+    "count": 1
+  },
+  "Section.qml:readonly property real foot: Math.max(0, Math.min(radius, _keptBy !== null ? _keptBy.bodyShown(root) : progress > 0 ? radius : 0))": {
+    "reason": "Section frame continuation metric, not a radius assignment.",
+    "count": 1
+  },
+  "Popup.qml:radius: popupSurface.radius; blur: 16; spread: 0; offset: Qt.vector2d(0, 3); color: Theme.colors.popup_shadow }": {
+    "reason": "Existing popup shadow decoration, outside the content compositor.",
+    "count": 1
+  },
+  "Menu.qml:radius: popupSurface.radius; blur: 16; spread: 0; offset: Qt.vector2d(0, 3); color: Theme.colors.popup_shadow }": {
+    "reason": "Existing popup shadow decoration, outside the content compositor.",
+    "count": 1
+  },
+  "CountBadge.qml:radius: height / 2": {
+    "reason": "R685: shared circular count badge; no container surface.",
+    "count": 1
+  },
+  "Pill.qml:radius: counting ? height / 2 : Theme.radius.CONTROL": {
+    "reason": "R685: round count indicator; non-count variants retain the control radius.",
+    "count": 1
+  },
+  "Tree.qml:y: Theme.space.XXS; radius: width / 2; color: Theme.colors.select_fg": {
+    "reason": "Rounded ends on the optional narrow selection mark; no container surface.",
+    "count": 1
+  },
+  "ColorSwatch.qml:radius: Theme.radius.MARK": {
+    "reason": "R682: tiny colour sample, not a container surface.",
+    "count": 1
+  },
+  "ViewPoint.qml:width: Theme.annotation.POINT; height: width; radius: width/2": {
+    "reason": "R685: shared circular point primitive, not a container surface.",
+    "count": 1
+  },
+  "ViewPoint.qml:width: root.width + Theme.annotation.HALO_EXTRA; height: width; radius: width/2": {
+    "reason": "R685: circular halo around the point, not a container surface.",
+    "count": 1
+  },
+  "List.qml:background: Rectangle { x: ControlMetrics.rowGround(root.framed); width: parent.width - 2 * x; radius: ControlMetrics.rowRadius": {
+    "reason": "A row of a tree or a list (20/11/2026): the menu entry's rounded selection and hover skin, ControlMetrics.rowRadius.",
+    "count": 1
+  },
+  "Tree.qml:radius: root.inset ? ControlMetrics.rowRadius : 0": {
+    "reason": "A row of a tree or a list (20/11/2026): the menu entry's rounded selection and hover skin, ControlMetrics.rowRadius.",
+    "count": 1
+  },
+  "ScrollBar.qml:radius: root._thumb / 2": {
+    "reason": "Scroll bar lane under the pointer (GNOME overlay scroll bar): a capsule as wide as the thumb, no user content.",
+    "count": 1
+  },
+  "ScrollBar.qml:Rectangle { z: -1; anchors.fill: parent; anchors.margins: -Theme.line.HAIR; radius: width / 2": {
+    "reason": "Outline of the scroll bar thumb (libadwaita overlay indicator): a capsule one hair wider than the thumb, no user content.",
+    "count": 1
+  },
+  "DataSheet.qml:radius: Theme.radius.INNER; color: \"transparent\"": {
+    "reason": "Focus ring round a value reached with Tab, a stroke, not a container.",
+    "count": 1
+  },
+  "TotalsTree.qml:radius: ControlMetrics.rowRadius": {
+    "reason": "Row hover and selection fill, as Tree's rows (ControlMetrics.rowFill); not a container.",
+    "count": 1
+  },
+  "TotalsTree.qml:anchors.fill: parent; anchors.margins: -Theme.space.XXS; radius: Theme.radius.CONTROL; color: \"transparent\"": {
+    "reason": "Focus ring of the table, a stroke, as Tree's.",
+    "count": 1
+  }
+}

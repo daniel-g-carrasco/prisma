@@ -1,0 +1,8 @@
+module Casa.Properties
+ElidedLabel 1.0 ElidedLabel.qml
+FieldGrid 1.0 FieldGrid.qml
+PropertyEditor 1.0 PropertyEditor.qml
+PropertyForm 1.0 PropertyForm.qml
+RowList 1.0 RowList.qml
+PropertiesPage 1.0 PropertiesPage.qml
+PropertiesHost 1.0 PropertiesHost.qml

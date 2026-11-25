@@ -1,0 +1,685 @@
+msgid ""
+msgstr "Project-Id-Version: Casa\nLanguage: it\nContent-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A warning"
+msgstr "Un avviso"
+
+msgid "Accent colour"
+msgstr "Colore d'accento"
+
+msgid "Adapt"
+msgstr "Adapt"
+
+msgid "Additional settings"
+msgstr "Altre impostazioni"
+
+msgid "Again"
+msgstr "Again"
+
+msgid "All files (*)"
+msgstr "All files (*)"
+
+msgid "All of them: {names} (the right button too)"
+msgstr "Tutti: {names} (anche col tasto destro)"
+
+msgid "Alt with a letter or a digit opens the menus"
+msgstr "Alt con una lettera o una cifra apre i menu"
+
+msgid "Alt+F4 closes the window"
+msgstr "Alt+F4 chiude la finestra"
+
+msgid "Alt: as tabs"
+msgstr "Alt: a linguette"
+
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgid "Apply"
+msgstr "Applica"
+
+msgid "As the system"
+msgstr "Come il sistema"
+
+msgid "Back"
+msgstr "Torna al lavoro"
+
+msgid "Back as it was: this shape of the window stays so until «Restore the default layout»."
+msgstr "Tornata com'era: per questa forma della finestra resta così fino a «Ripristina la disposizione predefinita»."
+
+msgid "Back to File"
+msgstr "Torna a File"
+
+msgid "Backgrounds"
+msgstr "Fondi"
+
+msgid "Bar of the phase"
+msgstr "Barra della fase"
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Bottom panel closed"
+msgstr "Pannello inferiore nascosto"
+
+msgid "Bottom panel open again"
+msgstr "Pannello inferiore aperto"
+
+msgid "Bottom side"
+msgstr "Lato in basso"
+
+msgid "Bronze"
+msgstr "Bronzo"
+
+msgid "C"
+msgstr "C"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Casa"
+msgstr "Casa"
+
+msgid "Cell text"
+msgstr "Testo della cella"
+
+msgid "Change the shortcuts used by menus and commands."
+msgstr "Modifica le scorciatoie dei menu e dei comandi."
+
+msgid "Changes are saved immediately."
+msgstr "Le modifiche vengono salvate subito."
+
+msgid "Changes not saved yet: Ctrl+S saves them"
+msgstr "Modifiche non ancora salvate: Ctrl+S le salva"
+
+msgid "Choose a file or a recent item."
+msgstr "Scegli un file o un elemento recente."
+
+msgid "Choose a file or folder."
+msgstr "Scegli un file o una cartella."
+
+msgid "Choose…"
+msgstr "Scegli…"
+
+msgid "Click a command to change its shortcut."
+msgstr "Fai clic su un comando per cambiarne la scorciatoia."
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Close the panel; View > Panels brings it back"
+msgstr "Chiude il pannello; Vista > Pannelli lo riporta"
+
+msgid "Colour"
+msgstr "Colore"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid "Commands"
+msgstr "Comandi"
+
+msgid "Copy"
+msgstr "Copia"
+
+msgid "Copy all"
+msgstr "Copia tutto"
+
+msgid "Copy as Markdown"
+msgstr "Copia in Markdown"
+
+msgid "Copy cell"
+msgstr "Copia cella"
+
+msgid "Copy description"
+msgstr "Copia descrizione"
+
+msgid "Copy draft"
+msgstr "Copia bozza"
+
+msgid "Copy formula (LaTeX)"
+msgstr "Copia formula (LaTeX)"
+
+msgid "Copy message"
+msgstr "Copia messaggio"
+
+msgid "Copy name"
+msgstr "Copia nome"
+
+msgid "Copy rows"
+msgstr "Copia righe"
+
+msgid "Copy selected rows"
+msgstr "Copia righe selezionate"
+
+msgid "Copy values"
+msgstr "Copia valori"
+
+msgid "Copy with headers"
+msgstr "Copia con intestazioni"
+
+msgid "Ctrl+Alt is AltGr on an Italian keyboard: Ctrl+Alt+E writes €"
+msgstr "Ctrl+Alt è AltGr sulla tastiera italiana: Ctrl+Alt+E scrive €"
+
+msgid "Ctrl+Shift+/ needs Shift twice on an Italian keyboard"
+msgstr "Ctrl+Maiusc+/ vuole due volte Maiusc sulla tastiera italiana"
+
+msgid "Ctrl+Shift+U types a Unicode character on Linux"
+msgstr "Ctrl+Maiusc+U scrive un carattere Unicode su Linux"
+
+msgid "Ctrl+Space switches the input method on some systems"
+msgstr "Ctrl+Spazio cambia il metodo di immissione su alcuni sistemi"
+
+msgid "Cut"
+msgstr "Taglia"
+
+msgid "Dark"
+msgstr "Scuro"
+
+msgid "Data table"
+msgstr "Tabella dati"
+
+msgid "Defaults"
+msgstr "Predefiniti"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Describe what happened."
+msgstr "Descrivi cosa è successo."
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Details"
+msgstr "Dettagli"
+
+msgid "Discard"
+msgstr "Scarta"
+
+msgid "Dock"
+msgstr "Aggancia"
+
+msgid "Don't save"
+msgstr "Non salvare"
+
+msgid "Done"
+msgstr "Fatto"
+
+msgid "English"
+msgstr "English"
+
+msgid "Export"
+msgstr "Esporta"
+
+msgid "F"
+msgstr "F"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files"
+msgstr "File"
+
+msgid "Float"
+msgstr "Sgancia"
+
+msgid "Font"
+msgstr "Carattere"
+
+msgid "Forest"
+msgstr "Bosco"
+
+msgid "From the colour"
+msgstr "Dal colore"
+
+msgid "Graphite"
+msgstr "Grafite"
+
+msgid "Grey"
+msgstr "Grigi"
+
+msgid "Group"
+msgstr "Gruppo"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "IBM Plex Sans"
+msgstr "IBM Plex Sans"
+
+msgid "IBM Plex Sans, condensed in the bar"
+msgstr "IBM Plex Sans, condensato nella barra"
+
+msgid "Icons"
+msgstr "Icone"
+
+msgid "Icons only"
+msgstr "Solo icone"
+
+msgid "Small buttons on two rows"
+msgstr "Pulsanti piccoli su due file"
+
+msgid "More"
+msgstr "Altro"
+
+msgid "Include environment"
+msgstr "Includi informazioni sul sistema"
+
+msgid "Indigo"
+msgstr "Indaco"
+
+msgid "Inter"
+msgstr "Inter"
+
+msgid "Invalid number or incompatible unit"
+msgstr "Numero non valido o unità incompatibile"
+
+msgid "It was close to {what}: Casa {how} to keep them apart."
+msgstr "Era vicino {what}: Casa {how} per distinguerli."
+
+msgid "Italiano"
+msgstr "Italiano"
+
+msgid "Item"
+msgstr "Elemento"
+
+msgid "Keyboard"
+msgstr "Tastiera"
+
+msgid "Keyboard shortcuts"
+msgstr "Scorciatoie da tastiera"
+
+msgid "Keys"
+msgstr "Tasti"
+
+msgid "L"
+msgstr "L"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Large (14 px)"
+msgstr "Grande (14 px)"
+
+msgid "Left side"
+msgstr "Lato sinistro"
+
+msgid "Less motion"
+msgstr "Meno movimento"
+
+msgid "Density of the lists"
+msgstr "Densità degli elenchi"
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "Compact"
+msgstr "Compatta"
+
+msgid "Light"
+msgstr "Chiaro"
+
+msgid "Lime and night"
+msgstr "Calce e notte"
+
+msgid "M"
+msgstr "M"
+
+msgid "Maximize or restore"
+msgstr "Ingrandisci o ripristina"
+
+msgid "Medium (13 px)"
+msgstr "Medio (13 px)"
+
+msgid "Menu bar"
+msgstr "Menu bar"
+
+msgid "Minimize"
+msgstr "Riduci a icona"
+
+msgid "New"
+msgstr "Nuovo"
+
+msgid "New shortcut"
+msgstr "Nuovi tasti"
+
+msgid "No recent files"
+msgstr "Nessun file aperto di recente"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Olive"
+msgstr "Oliva"
+
+msgid "On the left side, icons only"
+msgstr "Sul fianco sinistro, solo icone"
+
+msgid "Open"
+msgstr "Apri"
+
+msgid "Open draft"
+msgstr "Open draft"
+
+msgid "Other item"
+msgstr "Altro elemento"
+
+msgid "Other jobs"
+msgstr "Altri lavori"
+
+msgid "Panels"
+msgstr "Pannelli"
+
+msgid "Paste"
+msgstr "Incolla"
+
+msgid "Petrol"
+msgstr "Petrolio"
+
+msgid "Plum"
+msgstr "Prugna"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Project"
+msgstr "Progetto"
+
+msgid "Properties"
+msgstr "Proprietà"
+
+msgid "QStringList"
+msgstr "QStringList"
+
+msgid "Quit"
+msgstr "Esci"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "Recover"
+msgstr "Recupera"
+
+msgid "Recover the previous session?"
+msgstr "Recuperare la sessione precedente?"
+
+msgid "Recovery"
+msgstr "Recupero"
+
+msgid "Redo"
+msgstr "Ripeti"
+
+msgid "Animations when the phase changes"
+msgstr "Animazioni nel cambio di fase"
+
+msgid "Reduce motion"
+msgstr "Riduci il movimento"
+
+msgid "Restore"
+msgstr "Restore"
+
+msgid "Restore all shortcuts"
+msgstr "Tutti i predefiniti"
+
+msgid "Restore defaults for this section"
+msgstr "Ripristina i valori predefiniti della sezione"
+
+msgid "Restore defaults?"
+msgstr "Restore defaults?"
+
+msgid "Restore the default layout"
+msgstr "Ripristina la disposizione predefinita"
+
+msgid "Right side"
+msgstr "Lato destro"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Save and revisions"
+msgstr "Salva e revisioni"
+
+msgid "Save as…"
+msgstr "Salva con nome…"
+
+msgid "Save changes before closing?"
+msgstr "Salvare le modifiche prima di chiudere?"
+
+msgid "Save changes before continuing?"
+msgstr "Salvare le modifiche prima di continuare?"
+
+msgid "Save changes?"
+msgstr "Salvare le modifiche?"
+
+msgid "Save the current document."
+msgstr "Salva il documento corrente."
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Search commands"
+msgstr "Cerca un comando"
+
+msgid "Select all"
+msgstr "Seleziona tutto"
+
+msgid "Selection"
+msgstr "Selezione"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Shift+? needs Shift twice on an Italian keyboard"
+msgstr "Maiusc+? vuole due volte Maiusc sulla tastiera italiana"
+
+msgid "Shortcut already in use"
+msgstr "Scorciatoia già in uso"
+
+msgid "Size of the text"
+msgstr "Dimensione del testo"
+
+msgid "Small (12 px)"
+msgstr "Piccolo (12 px)"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Terracotta"
+msgstr "Cotto"
+
+msgid "Text on the colour {a}:1, the colour on the view {b}:1 (at least 4.5:1)."
+msgstr "Testo sul colore {a}:1, il colore sul fondo della vista {b}:1 (almeno 4,5:1)."
+
+msgid "The Super (Windows) key belongs to the system and to Niri"
+msgstr "Il tasto Super (Windows) è del sistema e di Niri"
+
+msgid "The arrangement you left for this shape of the window is back."
+msgstr "È tornata la disposizione lasciata per questa forma della finestra."
+
+msgid "The colour is used as it is."
+msgstr "Il colore è usato com'è."
+
+msgid "The cross of a notice that stays (R537: an error of a save)."
+msgstr "The cross of a notice that stays (R537: an error of a save)."
+
+msgid "The panels are back as at the first start. {keys} again within {seconds} seconds brings back the arrangement before."
+msgstr "I pannelli sono tornati come al primo avvio. {keys} di nuovo entro {seconds} secondi riporta la disposizione di prima."
+
+msgid "The panels are back as they were before."
+msgstr "I pannelli sono tornati com'erano prima."
+
+msgid "The same unhinted outline the Widgets phase disc fills."
+msgstr "The same unhinted outline the Widgets phase disc fills."
+
+msgid "The window changed shape: {what}."
+msgstr "La finestra ha cambiato forma: {what}."
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Toolbar"
+msgstr "Barra degli strumenti"
+
+msgid "Tools"
+msgstr "Strumenti"
+
+msgid "Under the row of the phases"
+msgstr "Sotto la riga delle fasi"
+
+msgid "Undo"
+msgstr "Annulla"
+
+msgid "Undo the last change"
+msgstr "Annulla l'ultima modifica"
+
+msgid "Ungroup"
+msgstr "Separa"
+
+msgid "Use"
+msgstr "Usa"
+
+msgid "Use colour"
+msgstr "Use colour"
+
+msgid "Where"
+msgstr "Dove"
+
+msgid "Words under the icons"
+msgstr "Testo sotto le icone"
+
+msgid "checks"
+msgstr "verifiche"
+
+msgid "done"
+msgstr "fatto"
+
+msgid "east"
+msgstr "est"
+
+msgid "kind"
+msgstr "tipo"
+
+msgid "left"
+msgstr "sinistro"
+
+msgid "made it a little darker"
+msgstr "lo ha scurito un poco"
+
+msgid "made it a little lighter"
+msgstr "lo ha schiarito un poco"
+
+msgid "name"
+msgstr "nome"
+
+msgid "none"
+msgstr "nessuno"
+
+msgid "one view at a time"
+msgstr "una vista alla volta"
+
+msgid "preview"
+msgstr "anteprima"
+
+msgid "right"
+msgstr "destro"
+
+msgid "rows"
+msgstr "file"
+
+msgid "south"
+msgstr "sud"
+
+msgid "text"
+msgstr "testo"
+
+msgid "the green of the checks passed"
+msgstr "al verde delle verifiche superate"
+
+msgid "the icons alone"
+msgstr "le sole icone"
+
+msgid "the red of the errors"
+msgstr "al rosso degli errori"
+
+msgid "the side panels apart"
+msgstr "i pannelli laterali ai loro lati"
+
+msgid "the side panels together"
+msgstr "i pannelli laterali insieme"
+
+msgid "the words beside the icons"
+msgstr "le parole accanto alle icone"
+
+msgid "the words under the icons"
+msgstr "le parole sotto le icone"
+
+msgid "the yellow of the warnings"
+msgstr "al giallo degli avvisi"
+
+msgid "views one above the other"
+msgstr "viste sovrapposte"
+
+msgid "views side by side"
+msgstr "viste affiancate"
+
+msgid "{keys} is used by {what}: there it would stop working."
+msgstr "{keys} è usato da {what}: lì smetterebbe di funzionare."
+
+msgid "{n} more in the arrow"
+msgstr "ancora {n} nella freccia"
+
+msgid "{side}, hidden: {cards}"
+msgstr "{side}, nascosto: {cards}"
+
+msgid "{side}: {cards}"
+msgstr "{side}: {cards}"
+
+msgid "«{key}» is written with AltGr on an Italian keyboard"
+msgstr "«{key}» si scrive con AltGr sulla tastiera italiana"
+
+msgid "The files you open appear here."
+msgstr "Qui compaiono i file che apri."
+
+msgid "Different values"
+msgstr "Valori diversi"
+
+msgid "%n row"
+msgid_plural "%n rows"
+msgstr[0] "%n riga"
+msgstr[1] "%n righe"
+
+msgid "{job} in progress: Cancel in the status bar"
+msgstr "{job} in corso: Annulla nella barra di stato"
+
+msgid "Second colour of the icons"
+msgstr "Secondo colore delle icone"
+
+msgid "Neutral"
+msgstr "Neutro"
+
+msgid "Warm"
+msgstr "Caldo"
+
+msgid "Colour of the icons"
+msgstr "Colore delle icone"
+
+msgid "Soft"
+msgstr "Morbido"
+
+msgid "Full, as the text"
+msgstr "Pieno, come il testo"
+
+msgid "Stroke of the icons"
+msgstr "Tratto delle icone"
+
+msgid "Thin"
+msgstr "Sottile"
+
+msgid "Automatic: thin from 24 px"
+msgstr "Automatico: sottile da 24 px"

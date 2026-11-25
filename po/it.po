@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Prisma\n"
+"Language: it\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "IFC files cannot be opened in this development build."
+msgstr "Questa versione di sviluppo non può aprire file IFC."
+
+msgid "IFC viewer in development"
+msgstr "Visualizzatore IFC in sviluppo"

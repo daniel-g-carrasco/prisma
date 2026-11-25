@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Prisma
+Comment=Development shell for the Prisma IFC viewer
+Comment[it]=Base di sviluppo del visualizzatore IFC Prisma
+Exec=prisma
+Icon=io.github.daniel_g_carrasco.prisma
+Terminal=false
+Categories=Graphics;3DGraphics;
+Keywords=IFC;BIM;
+StartupNotify=true

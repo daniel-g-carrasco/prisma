@@ -2,3 +2,4 @@
 *.png binary
 *.ico binary
 *.md text eol=lf
+bin/prisma text eol=lf

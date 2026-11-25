@@ -1,0 +1,655 @@
+msgid ""
+msgstr "Project-Id-Version: Casa\nLanguage: en\nContent-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A warning"
+msgstr "A warning"
+
+msgid "Accent colour"
+msgstr "Accent colour"
+
+msgid "Adapt"
+msgstr "Adapt"
+
+msgid "Additional settings"
+msgstr "Additional settings"
+
+msgid "Again"
+msgstr "Again"
+
+msgid "All files (*)"
+msgstr "All files (*)"
+
+msgid "All of them: {names} (the right button too)"
+msgstr "All of them: {names} (the right button too)"
+
+msgid "Alt with a letter or a digit opens the menus"
+msgstr "Alt with a letter or a digit opens the menus"
+
+msgid "Alt+F4 closes the window"
+msgstr "Alt+F4 closes the window"
+
+msgid "Alt: as tabs"
+msgstr "Alt: as tabs"
+
+msgid "Appearance"
+msgstr "Appearance"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "As the system"
+msgstr "As the system"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Back as it was: this shape of the window stays so until «Restore the default layout»."
+msgstr "Back as it was: this shape of the window stays so until «Restore the default layout»."
+
+msgid "Back to File"
+msgstr "Back to File"
+
+msgid "Backgrounds"
+msgstr "Backgrounds"
+
+msgid "Bar of the phase"
+msgstr "Bar of the phase"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Bottom panel closed"
+msgstr "Bottom panel closed"
+
+msgid "Bottom panel open again"
+msgstr "Bottom panel open again"
+
+msgid "Bottom side"
+msgstr "Bottom side"
+
+msgid "Bronze"
+msgstr "Bronze"
+
+msgid "C"
+msgstr "C"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Casa"
+msgstr "Casa"
+
+msgid "Cell text"
+msgstr "Cell text"
+
+msgid "Change the shortcuts used by menus and commands."
+msgstr "Change the shortcuts used by menus and commands."
+
+msgid "Changes are saved immediately."
+msgstr "Changes are saved immediately."
+
+msgid "Changes not saved yet: Ctrl+S saves them"
+msgstr "Changes not saved yet: Ctrl+S saves them"
+
+msgid "Choose a file or a recent item."
+msgstr "Choose a file or a recent item."
+
+msgid "Choose a file or folder."
+msgstr "Choose a file or folder."
+
+msgid "Choose…"
+msgstr "Choose…"
+
+msgid "Click a command to change its shortcut."
+msgstr "Click a command to change its shortcut."
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Close the panel; View > Panels brings it back"
+msgstr "Close the panel; View > Panels brings it back"
+
+msgid "Colour"
+msgstr "Colour"
+
+msgid "Command"
+msgstr "Command"
+
+msgid "Commands"
+msgstr "Commands"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Copy all"
+msgstr "Copy all"
+
+msgid "Copy as Markdown"
+msgstr "Copy as Markdown"
+
+msgid "Copy cell"
+msgstr "Copy cell"
+
+msgid "Copy description"
+msgstr "Copy description"
+
+msgid "Copy draft"
+msgstr "Copy draft"
+
+msgid "Copy formula (LaTeX)"
+msgstr "Copy formula (LaTeX)"
+
+msgid "Copy message"
+msgstr "Copy message"
+
+msgid "Copy name"
+msgstr "Copy name"
+
+msgid "Copy rows"
+msgstr "Copy rows"
+
+msgid "Copy selected rows"
+msgstr "Copy selected rows"
+
+msgid "Copy values"
+msgstr "Copy values"
+
+msgid "Copy with headers"
+msgstr "Copy with headers"
+
+msgid "Ctrl+Alt is AltGr on an Italian keyboard: Ctrl+Alt+E writes €"
+msgstr "Ctrl+Alt is AltGr on an Italian keyboard: Ctrl+Alt+E writes €"
+
+msgid "Ctrl+Shift+/ needs Shift twice on an Italian keyboard"
+msgstr "Ctrl+Shift+/ needs Shift twice on an Italian keyboard"
+
+msgid "Ctrl+Shift+U types a Unicode character on Linux"
+msgstr "Ctrl+Shift+U types a Unicode character on Linux"
+
+msgid "Ctrl+Space switches the input method on some systems"
+msgstr "Ctrl+Space switches the input method on some systems"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Dark"
+msgstr "Dark"
+
+msgid "Data table"
+msgstr "Data table"
+
+msgid "Defaults"
+msgstr "Defaults"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Describe what happened."
+msgstr "Describe what happened."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Discard"
+msgstr "Discard"
+
+msgid "Dock"
+msgstr "Dock"
+
+msgid "Don't save"
+msgstr "Don't save"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "English"
+msgstr "English"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "F"
+msgstr "F"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "Float"
+msgstr "Float"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Forest"
+msgstr "Forest"
+
+msgid "From the colour"
+msgstr "From the colour"
+
+msgid "Graphite"
+msgstr "Graphite"
+
+msgid "Grey"
+msgstr "Grey"
+
+msgid "Group"
+msgstr "Group"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "IBM Plex Sans"
+msgstr "IBM Plex Sans"
+
+msgid "IBM Plex Sans, condensed in the bar"
+msgstr "IBM Plex Sans, condensed in the bar"
+
+msgid "Icons"
+msgstr "Icons"
+
+msgid "Icons only"
+msgstr "Icons only"
+
+msgid "Small buttons on two rows"
+msgstr "Small buttons on two rows"
+
+msgid "More"
+msgstr "More"
+
+msgid "Include environment"
+msgstr "Include environment"
+
+msgid "Indigo"
+msgstr "Indigo"
+
+msgid "Inter"
+msgstr "Inter"
+
+msgid "Invalid number or incompatible unit"
+msgstr "Invalid number or incompatible unit"
+
+msgid "It was close to {what}: Casa {how} to keep them apart."
+msgstr "It was close to {what}: Casa {how} to keep them apart."
+
+msgid "Italiano"
+msgstr "Italiano"
+
+msgid "Item"
+msgstr "Item"
+
+msgid "Keyboard"
+msgstr "Keyboard"
+
+msgid "Keyboard shortcuts"
+msgstr "Keyboard shortcuts"
+
+msgid "Keys"
+msgstr "Keys"
+
+msgid "L"
+msgstr "L"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Large (14 px)"
+msgstr "Large (14 px)"
+
+msgid "Left side"
+msgstr "Left side"
+
+msgid "Less motion"
+msgstr "Less motion"
+
+msgid "Density of the lists"
+msgstr "Density of the lists"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Compact"
+msgstr "Compact"
+
+msgid "Light"
+msgstr "Light"
+
+msgid "Lime and night"
+msgstr "Lime and night"
+
+msgid "M"
+msgstr "M"
+
+msgid "Maximize or restore"
+msgstr "Maximize or restore"
+
+msgid "Medium (13 px)"
+msgstr "Medium (13 px)"
+
+msgid "Menu bar"
+msgstr "Menu bar"
+
+msgid "Minimize"
+msgstr "Minimize"
+
+msgid "New"
+msgstr "New"
+
+msgid "New shortcut"
+msgstr "New shortcut"
+
+msgid "No recent files"
+msgstr "No recent files"
+
+msgid "None"
+msgstr "None"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Olive"
+msgstr "Olive"
+
+msgid "On the left side, icons only"
+msgstr "On the left side, icons only"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Open draft"
+msgstr "Open draft"
+
+msgid "Other item"
+msgstr "Other item"
+
+msgid "Other jobs"
+msgstr "Other jobs"
+
+msgid "Panels"
+msgstr "Panels"
+
+msgid "Paste"
+msgstr "Paste"
+
+msgid "Petrol"
+msgstr "Petrol"
+
+msgid "Plum"
+msgstr "Plum"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Properties"
+msgstr "Properties"
+
+msgid "QStringList"
+msgstr "QStringList"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "Recent"
+msgstr "Recent"
+
+msgid "Recover"
+msgstr "Recover"
+
+msgid "Recover the previous session?"
+msgstr "Recover the previous session?"
+
+msgid "Recovery"
+msgstr "Recovery"
+
+msgid "Redo"
+msgstr "Redo"
+
+msgid "Animations when the phase changes"
+msgstr "Animations when the phase changes"
+
+msgid "Reduce motion"
+msgstr "Reduce motion"
+
+msgid "Restore"
+msgstr "Restore"
+
+msgid "Restore all shortcuts"
+msgstr "Restore all shortcuts"
+
+msgid "Restore defaults for this section"
+msgstr "Restore defaults for this section"
+
+msgid "Restore defaults?"
+msgstr "Restore defaults?"
+
+msgid "Restore the default layout"
+msgstr "Restore the default layout"
+
+msgid "Right side"
+msgstr "Right side"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save and revisions"
+msgstr "Save and revisions"
+
+msgid "Save as…"
+msgstr "Save as…"
+
+msgid "Save changes before closing?"
+msgstr "Save changes before closing?"
+
+msgid "Save changes before continuing?"
+msgstr "Save changes before continuing?"
+
+msgid "Save changes?"
+msgstr "Save changes?"
+
+msgid "Save the current document."
+msgstr "Save the current document."
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Search commands"
+msgstr "Search commands"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Shift+? needs Shift twice on an Italian keyboard"
+msgstr "Shift+? needs Shift twice on an Italian keyboard"
+
+msgid "Shortcut already in use"
+msgstr "Shortcut already in use"
+
+msgid "Size of the text"
+msgstr "Size of the text"
+
+msgid "Small (12 px)"
+msgstr "Small (12 px)"
+
+msgid "System"
+msgstr "System"
+
+msgid "Terracotta"
+msgstr "Terracotta"
+
+msgid "Text on the colour {a}:1, the colour on the view {b}:1 (at least 4.5:1)."
+msgstr "Text on the colour {a}:1, the colour on the view {b}:1 (at least 4.5:1)."
+
+msgid "The Super (Windows) key belongs to the system and to Niri"
+msgstr "The Super (Windows) key belongs to the system and to Niri"
+
+msgid "The arrangement you left for this shape of the window is back."
+msgstr "The arrangement you left for this shape of the window is back."
+
+msgid "The colour is used as it is."
+msgstr "The colour is used as it is."
+
+msgid "The cross of a notice that stays (R537: an error of a save)."
+msgstr "The cross of a notice that stays (R537: an error of a save)."
+
+msgid "The panels are back as at the first start. {keys} again within {seconds} seconds brings back the arrangement before."
+msgstr "The panels are back as at the first start. {keys} again within {seconds} seconds brings back the arrangement before."
+
+msgid "The panels are back as they were before."
+msgstr "The panels are back as they were before."
+
+msgid "The same unhinted outline the Widgets phase disc fills."
+msgstr "The same unhinted outline the Widgets phase disc fills."
+
+msgid "The window changed shape: {what}."
+msgstr "The window changed shape: {what}."
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Toolbar"
+msgstr "Toolbar"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Under the row of the phases"
+msgstr "Under the row of the phases"
+
+msgid "Undo"
+msgstr "Undo"
+
+msgid "Undo the last change"
+msgstr "Undo the last change"
+
+msgid "Ungroup"
+msgstr "Ungroup"
+
+msgid "Use"
+msgstr "Use"
+
+msgid "Use colour"
+msgstr "Use colour"
+
+msgid "Where"
+msgstr "Where"
+
+msgid "Words under the icons"
+msgstr "Words under the icons"
+
+msgid "checks"
+msgstr "checks"
+
+msgid "done"
+msgstr "done"
+
+msgid "east"
+msgstr "east"
+
+msgid "kind"
+msgstr "kind"
+
+msgid "left"
+msgstr "left"
+
+msgid "made it a little darker"
+msgstr "made it a little darker"
+
+msgid "made it a little lighter"
+msgstr "made it a little lighter"
+
+msgid "name"
+msgstr "name"
+
+msgid "none"
+msgstr "none"
+
+msgid "one view at a time"
+msgstr "one view at a time"
+
+msgid "preview"
+msgstr "preview"
+
+msgid "right"
+msgstr "right"
+
+msgid "rows"
+msgstr "rows"
+
+msgid "south"
+msgstr "south"
+
+msgid "text"
+msgstr "text"
+
+msgid "the green of the checks passed"
+msgstr "the green of the checks passed"
+
+msgid "the icons alone"
+msgstr "the icons alone"
+
+msgid "the red of the errors"
+msgstr "the red of the errors"
+
+msgid "the side panels apart"
+msgstr "the side panels apart"
+
+msgid "the side panels together"
+msgstr "the side panels together"
+
+msgid "the words beside the icons"
+msgstr "the words beside the icons"
+
+msgid "the words under the icons"
+msgstr "the words under the icons"
+
+msgid "the yellow of the warnings"
+msgstr "the yellow of the warnings"
+
+msgid "views one above the other"
+msgstr "views one above the other"
+
+msgid "views side by side"
+msgstr "views side by side"
+
+msgid "{keys} is used by {what}: there it would stop working."
+msgstr "{keys} is used by {what}: there it would stop working."
+
+msgid "{n} more in the arrow"
+msgstr "{n} more in the arrow"
+
+msgid "{side}, hidden: {cards}"
+msgstr "{side}, hidden: {cards}"
+
+msgid "{side}: {cards}"
+msgstr "{side}: {cards}"
+
+msgid "«{key}» is written with AltGr on an Italian keyboard"
+msgstr "«{key}» is written with AltGr on an Italian keyboard"
+
+msgid "The files you open appear here."
+msgstr "The files you open appear here."
+
+msgid "Different values"
+msgstr "Different values"
+
+msgid "%n row"
+msgid_plural "%n rows"
+msgstr[0] "%n row"
+msgstr[1] "%n rows"

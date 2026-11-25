@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "group": "comune",
+  "upstream_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c",
+  "mappings": [
+    [
+      "comune/src/app/work.py",
+      "src/prisma/app/work.py"
+    ],
+    [
+      "comune/src/core/compute.py",
+      "src/prisma/core/compute.py"
+    ],
+    [
+      "comune/src/data/atomic.py",
+      "src/prisma/data/atomic.py"
+    ],
+    [
+      "comune/src/i18n.py",
+      "src/prisma/i18n.py"
+    ],
+    [
+      "comune/src/app/paths.py",
+      "src/prisma/app/paths.py"
+    ],
+    [
+      "comune/tests/test_impronte.py",
+      "tests/test_impronte.py"
+    ],
+    [
+      "comune/tests/test_strati.py",
+      "tests/test_strati.py"
+    ],
+    [
+      "comune/tests/_userfolders.py",
+      "tests/_userfolders.py"
+    ],
+    [
+      "comune/tests/test_userfolders.py",
+      "tests/test_userfolders.py"
+    ],
+    [
+      "comune/tests/test_work.py",
+      "tests/test_work.py"
+    ],
+    [
+      "comune/tests/test_atomic.py",
+      "tests/test_atomic.py"
+    ],
+    [
+      "comune/tests/test_i18n.py",
+      "tests/test_i18n.py"
+    ],
+    [
+      "comune/tests/test_paths.py",
+      "tests/test_paths.py"
+    ],
+    [
+      "comune/tests/test_tool_compile_po.py",
+      "tests/test_tool_compile_po.py"
+    ],
+    [
+      "comune/tools/compile_po.py",
+      "tools/compile_po.py"
+    ],
+    [
+      "comune/src/app/workers/process.py",
+      "src/prisma/app/workers/process.py"
+    ],
+    [
+      "comune/tests/test_tool_check_public.py",
+      "tests/test_tool_check_public.py"
+    ],
+    [
+      "comune/tools/check_public.py",
+      "tools/check_public.py"
+    ]
+  ],
+  "replacements": [],
+  "files": [
+    {
+      "source": "comune/src/app/paths.py",
+      "target": "src/prisma/app/paths.py",
+      "sha256": "7b509de8748897c46eb34bae27ec36c632eb626dfa37d20136cabfd54ff4801b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/src/app/work.py",
+      "target": "src/prisma/app/work.py",
+      "sha256": "81a64bf1d1aed90dde61b90059bc5167436da858b211940f21468d833d7343b1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/src/app/workers/process.py",
+      "target": "src/prisma/app/workers/process.py",
+      "sha256": "0c9aaa5a4a898cabdf48565e01d69d98616c1d0b5fddc9b4b552839568bf8115",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/src/core/compute.py",
+      "target": "src/prisma/core/compute.py",
+      "sha256": "b4d1bc5ff0c263e632d2a7d72e1d0cd164d7b4bca730a63ba3db22bfe1899424",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/src/data/atomic.py",
+      "target": "src/prisma/data/atomic.py",
+      "sha256": "410881a3bb50fec3d4415c96a9ed80f7e84d7e2d69ad35ea166cdfbb5c9dcf01",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/src/i18n.py",
+      "target": "src/prisma/i18n.py",
+      "sha256": "a806274ff51d92acf8a16a1bf327ab025f1bb95778ee5badd70841094fc7be71",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/_userfolders.py",
+      "target": "tests/_userfolders.py",
+      "sha256": "3216ed2c8196d46c8befb6a27fed0f49be2d545dd16f48ec2d37919b3e76b263",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_atomic.py",
+      "target": "tests/test_atomic.py",
+      "sha256": "dae88b3523d246e4b7ebda27b2ea41d06d1d1884b80fedb0d688acc8c24ea2c5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_i18n.py",
+      "target": "tests/test_i18n.py",
+      "sha256": "45acd92dcd6873c11551041adecd9519590cb80c433e0679df9a20e66d30a077",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_impronte.py",
+      "target": "tests/test_impronte.py",
+      "sha256": "271d05d9b09709f69bd148b8ac4c307d2b9b77d5b5e6ed32dd0ba3f0e82fd6d1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_paths.py",
+      "target": "tests/test_paths.py",
+      "sha256": "cb0552e62bce974f9efa6d3aac8d980878d3b8faecc1b492731af45afa80cbbf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_strati.py",
+      "target": "tests/test_strati.py",
+      "sha256": "620c40b9f825472da497828f4d3c2bd074c768d81b49669056a7a2a456c8cf5a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_tool_check_public.py",
+      "target": "tests/test_tool_check_public.py",
+      "sha256": "bf729dc8b614c12d0210d7d592008978112b838b5894d73b80d1badca6f01a85",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_tool_compile_po.py",
+      "target": "tests/test_tool_compile_po.py",
+      "sha256": "423b8e0c7ae5febe37dedafd2e1428650c05122aeaf03d918281546dde331264",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_userfolders.py",
+      "target": "tests/test_userfolders.py",
+      "sha256": "e0c292b6185537e2b1d6fd00b5644a23acf4c3d0a2462d516bca170be1692a74",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tests/test_work.py",
+      "target": "tests/test_work.py",
+      "sha256": "1b32ad3a1bd7f4375b9654e39227fd52d8cbd3e56e5d482c3e76dc18b4b329b3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tools/check_public.py",
+      "target": "tools/check_public.py",
+      "sha256": "65566d80699387ef5602c4e9ba4a212c54b778ba748d4f381ad533334c525f05",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "comune/tools/compile_po.py",
+      "target": "tools/compile_po.py",
+      "sha256": "e19f9865e13abc86bc3ba6c0e989fed4a3144e19fecfb7d4641f32ffaa0dc4c4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    }
+  ]
+}

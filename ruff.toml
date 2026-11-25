@@ -1,0 +1,11 @@
+[lint]
+# Keep source and test scripts portable across checkouts on Windows and Linux.
+ignore = ["EXE001"]
+
+[lint.per-file-ignores]
+# These files are canonical copies from the shared modules.
+"src/*/app/paths.py" = ["UP037"]
+"tests/test_atomic.py" = ["SIM117"]
+"tests/test_tool_compile_po.py" = ["PLW1510"]
+"tests/test_userfolders.py" = ["PLW1510"]
+"tools/compile_po.py" = ["SIM905", "UP033"]

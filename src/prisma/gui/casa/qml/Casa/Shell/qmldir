@@ -1,0 +1,18 @@
+module Casa.Shell
+AppearancePanel 1.0 AppearancePanel.qml
+CloseDialog 1.0 CloseDialog.qml
+CommandDialogs 1.0 CommandDialogs.qml
+DockMotion 1.0 DockMotion.qml
+DockPanel 1.0 DockPanel.qml
+DockView 1.0 DockView.qml
+FallbackFile 1.0 FallbackFile.qml
+PhaseHeader 1.0 PhaseHeader.qml
+PhaseSplitButton 1.0 PhaseSplitButton.qml
+PhaseToolButton 1.0 PhaseToolButton.qml
+PropertiesPanel 1.0 PropertiesPanel.qml
+RecoveryDialog 1.0 RecoveryDialog.qml
+StatusButton 1.0 StatusButton.qml
+TitleBar 1.0 TitleBar.qml
+WorkBar 1.0 WorkBar.qml
+Workbench 1.0 Workbench.qml
+PhaseMore 1.0 PhaseMore.qml

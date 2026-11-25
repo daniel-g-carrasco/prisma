@@ -1,0 +1,3120 @@
+{
+  "format": 1,
+  "group": "kit",
+  "upstream_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c",
+  "mappings": [
+    [
+      "qt/template/po/casa/en.po",
+      "po/casa/en.po"
+    ],
+    [
+      "qt/template/po/casa/it.po",
+      "po/casa/it.po"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/__init__.py",
+      "src/prisma/gui/casa/__init__.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/alt.py",
+      "src/prisma/gui/casa/alt.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/arrangement.py",
+      "src/prisma/gui/casa/arrangement.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/columns.py",
+      "src/prisma/gui/casa/columns.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/commands.py",
+      "src/prisma/gui/casa/commands.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/compositors.json",
+      "src/prisma/gui/casa/compositors.json"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/controls.py",
+      "src/prisma/gui/casa/controls.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexMath-Regular.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexMath-Regular.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexMono-Regular.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexMono-Regular.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Bold.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Bold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Italic.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Italic.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Light.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Light.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-LightItalic.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-LightItalic.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Medium.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Medium.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Regular.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Regular.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-SemiBold.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-SemiBold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Bold.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Bold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Regular.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Regular.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-SemiBold.ttf",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-SemiBold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/OFL.txt",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/OFL.txt"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/README.md",
+      "src/prisma/gui/casa/data/fonts/ibm-plex/README.md"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-Bold.ttf",
+      "src/prisma/gui/casa/data/fonts/inter/Inter-Bold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-Regular.ttf",
+      "src/prisma/gui/casa/data/fonts/inter/Inter-Regular.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-SemiBold.ttf",
+      "src/prisma/gui/casa/data/fonts/inter/Inter-SemiBold.ttf"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/inter/OFL.txt",
+      "src/prisma/gui/casa/data/fonts/inter/OFL.txt"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/fonts/inter/README.md",
+      "src/prisma/gui/casa/data/fonts/inter/README.md"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-counter-clockwise-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-counter-clockwise-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-counter-clockwise-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-counter-clockwise-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-down-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-down-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-down-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-down-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-left-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-left-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-left-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-left-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-square-out-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-square-out-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-square-out-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-square-out-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-left-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-left-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-left-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-left-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-right-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-right-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-right-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-right-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-up-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-up-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-up-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrow-up-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-in-simple-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrows-in-simple-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-in-simple-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrows-in-simple-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-out-cardinal-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrows-out-cardinal-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-out-cardinal-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/arrows-out-cardinal-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/book-open-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/book-open-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/book-open-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/book-open-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/books-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/books-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/books-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/books-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/calculator-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/calculator-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/calculator-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/calculator-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chart-pie-slice-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/chart-pie-slice-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chart-pie-slice-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/chart-pie-slice-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chat-circle-dots-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/chat-circle-dots-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chat-circle-dots-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/chat-circle-dots-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/columns-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/columns-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/columns-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/columns-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/copy-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/copy-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/copy-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/copy-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/cursor-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/cursor-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/cursor-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/cursor-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/dots-three-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/dots-three-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/dots-three-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/dots-three-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/download-simple-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/download-simple-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/download-simple-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/download-simple-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eraser-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/eraser-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eraser-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/eraser-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eye-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/eye-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eye-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/eye-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-plus-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/file-plus-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-plus-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/file-plus-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-text-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/file-text-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-text-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/file-text-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/floppy-disk-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/floppy-disk-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/floppy-disk-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/floppy-disk-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/folder-open-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/folder-open-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/folder-open-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/folder-open-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/gear-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/gear-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/gear-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/gear-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/git-diff-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/git-diff-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/git-diff-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/git-diff-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/grid-nine-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/grid-nine-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/grid-nine-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/grid-nine-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/info-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/info-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/info-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/info-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/keyboard-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/keyboard-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/keyboard-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/keyboard-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/LICENSE",
+      "src/prisma/gui/casa/data/icons/phosphor/LICENSE"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lightning-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lightning-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lightning-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lightning-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/link-break-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/link-break-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/link-break-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/link-break-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-checks-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/list-checks-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-checks-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/list-checks-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-plus-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/list-plus-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-plus-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/list-plus-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lock-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lock-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-open-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lock-open-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-open-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/lock-open-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magic-wand-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/magic-wand-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magic-wand-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/magic-wand-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magnifying-glass-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/magnifying-glass-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magnifying-glass-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/magnifying-glass-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/map-trifold-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/map-trifold-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/map-trifold-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/map-trifold-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/note-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/note-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/note-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/note-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/play-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/play-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/play-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/play-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/plus-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/plus-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/plus-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/plus-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/printer-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/printer-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/printer-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/printer-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/question-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/question-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/question-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/question-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/rows-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/rows-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/rows-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/rows-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/ruler-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/ruler-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/ruler-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/ruler-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sidebar-simple-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sidebar-simple-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sidebar-simple-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sidebar-simple-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sign-out-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sign-out-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sign-out-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sign-out-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sliders-horizontal-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sliders-horizontal-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sliders-horizontal-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/sliders-horizontal-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/square-half-bottom-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/square-half-bottom-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/square-half-bottom-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/square-half-bottom-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/squares-four-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/squares-four-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/squares-four-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/squares-four-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/stack-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/stack-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/stack-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/stack-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/table-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/table-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/table-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/table-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/trash-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/trash-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/trash-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/trash-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/upload-simple-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/upload-simple-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/upload-simple-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/upload-simple-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/x-duotone.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/x-duotone.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/icons/phosphor/x-light.svg",
+      "src/prisma/gui/casa/data/icons/phosphor/x-light.svg"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/data/LICENSE",
+      "src/prisma/gui/casa/data/LICENSE"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/dialogs.py",
+      "src/prisma/gui/casa/dialogs.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/files.py",
+      "src/prisma/gui/casa/files.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/pages.py",
+      "src/prisma/gui/casa/pages.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/parts.py",
+      "src/prisma/gui/casa/parts.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/platform.py",
+      "src/prisma/gui/casa/platform.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/properties.py",
+      "src/prisma/gui/casa/properties.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Arrow.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Arrow.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Button.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Button.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Card.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Card.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CellText.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/CellText.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CheckBox.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/CheckBox.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CheckMark.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/CheckMark.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Chevron.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Chevron.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ColorSwatch.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ColorSwatch.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ComboBox.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ComboBox.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ComboList.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ComboList.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ControlMetrics.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ControlMetrics.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CopyLabel.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/CopyLabel.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CountBadge.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/CountBadge.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataCell.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DataCell.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataHeader.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DataHeader.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataSheet.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DataSheet.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataTable.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DataTable.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Dialog.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Dialog.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DialogSizes.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DialogSizes.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DropOutline.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/DropOutline.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/edgefade.frag",
+      "src/prisma/gui/casa/qml/Casa/Controls/edgefade.frag"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/edgefade.frag.qsb",
+      "src/prisma/gui/casa/qml/Casa/Controls/edgefade.frag.qsb"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/EdgeFades.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/EdgeFades.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/EmptyState.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/EmptyState.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/FoldBody.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/FoldBody.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/GrowingField.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/GrowingField.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HeldHeads.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/HeldHeads.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Help.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Help.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HelpBubble.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/HelpBubble.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HelpMark.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/HelpMark.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Highlight.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Highlight.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Icon.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Icon.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/InfoGroup.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/InfoGroup.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/KeyedRows.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/KeyedRows.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Label.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Label.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/List.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/List.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/LitSide.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/LitSide.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MarkArea.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/MarkArea.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Menu.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Menu.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuEntry.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/MenuEntry.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuItem.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/MenuItem.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuSeparator.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/MenuSeparator.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ModalVeil.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ModalVeil.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/NumberField.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/NumberField.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PanelPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/PanelPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PhaseFade.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/PhaseFade.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PhaseLoader.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/PhaseLoader.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Pill.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Pill.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PointerShield.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/PointerShield.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Popup.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Popup.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ProgressBar.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ProgressBar.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Controls/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/RadioButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/RadioButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ReadableText.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ReadableText.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Rebound.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Rebound.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Reveal.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Reveal.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ScrollBar.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ScrollBar.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ScrollPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ScrollPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Section.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Section.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SectionBand.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SectionBand.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SectionHead.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SectionHead.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Segments.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Segments.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Slider.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Slider.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SplitButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitCards.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SplitCards.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitGround.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SplitGround.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitHandle.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SplitHandle.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Stage.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Stage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Steppers.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Steppers.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SummaryFigures.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SummaryFigures.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SummarySheet.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/SummarySheet.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/surface.frag",
+      "src/prisma/gui/casa/qml/Casa/Controls/surface.frag"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/surface.frag.qsb",
+      "src/prisma/gui/casa/qml/Casa/Controls/surface.frag.qsb"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Surface.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Surface.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Table.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Table.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Tabs.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Tabs.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextActions.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TextActions.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextArea.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TextArea.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextField.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TextField.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextKeys.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TextKeys.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextMenu.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TextMenu.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ToolButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolCursor.js",
+      "src/prisma/gui/casa/qml/Casa/Controls/ToolCursor.js"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolTip.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ToolTip.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TotalsTree.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/TotalsTree.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Tree.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/Tree.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TreeSelection.js",
+      "src/prisma/gui/casa/qml/Casa/Controls/TreeSelection.js"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewMarks.js",
+      "src/prisma/gui/casa/qml/Casa/Controls/ViewMarks.js"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewPath.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ViewPath.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewPoint.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ViewPoint.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewStroke.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/ViewStroke.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/WholeLoader.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/WholeLoader.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/WorkRow.qml",
+      "src/prisma/gui/casa/qml/Casa/Controls/WorkRow.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/DialogLayer.qml",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/DialogLayer.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/DialogWindow.qml",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/DialogWindow.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/FeedbackPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/FeedbackPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/FormFields.qml",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/FormFields.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/ShortcutsPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Dialogs/ShortcutsPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/FilePage.qml",
+      "src/prisma/gui/casa/qml/Casa/File/FilePage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/FileSection.qml",
+      "src/prisma/gui/casa/qml/Casa/File/FileSection.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/FileTile.qml",
+      "src/prisma/gui/casa/qml/Casa/File/FileTile.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/PageHost.qml",
+      "src/prisma/gui/casa/qml/Casa/File/PageHost.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/qmldir",
+      "src/prisma/gui/casa/qml/Casa/File/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/File/WorkbenchFile.qml",
+      "src/prisma/gui/casa/qml/Casa/File/WorkbenchFile.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/ElidedLabel.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/ElidedLabel.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/FieldGrid.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/FieldGrid.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertiesHost.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/PropertiesHost.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertiesPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/PropertiesPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertyEditor.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/PropertyEditor.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertyForm.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/PropertyForm.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Properties/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/RowList.qml",
+      "src/prisma/gui/casa/qml/Casa/Properties/RowList.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/AppearancePreview.qml",
+      "src/prisma/gui/casa/qml/Casa/Settings/AppearancePreview.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Settings/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingField.qml",
+      "src/prisma/gui/casa/qml/Casa/Settings/SettingField.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingsKeyboard.qml",
+      "src/prisma/gui/casa/qml/Casa/Settings/SettingsKeyboard.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingsPage.qml",
+      "src/prisma/gui/casa/qml/Casa/Settings/SettingsPage.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/AppearancePanel.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/AppearancePanel.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/CloseDialog.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/CloseDialog.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/CommandDialogs.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/CommandDialogs.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockMotion.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/DockMotion.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockPanel.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/DockPanel.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockView.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/DockView.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/FallbackFile.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/FallbackFile.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseHeader.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/PhaseHeader.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseMore.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/PhaseMore.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseSplitButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/PhaseSplitButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseToolButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/PhaseToolButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PropertiesPanel.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/PropertiesPanel.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Shell/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/RecoveryDialog.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/RecoveryDialog.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/StatusButton.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/StatusButton.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/TitleBar.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/TitleBar.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/WorkBar.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/WorkBar.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/Workbench.qml",
+      "src/prisma/gui/casa/qml/Casa/Shell/Workbench.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Theme/qmldir",
+      "src/prisma/gui/casa/qml/Casa/Theme/qmldir"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/qml/Casa/Theme/Theme.qml",
+      "src/prisma/gui/casa/qml/Casa/Theme/Theme.qml"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/resources.py",
+      "src/prisma/gui/casa/resources.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/row_extension.py",
+      "src/prisma/gui/casa/row_extension.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/scaffold.py",
+      "src/prisma/gui/casa/scaffold.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/settings.py",
+      "src/prisma/gui/casa/settings.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/shell.py",
+      "src/prisma/gui/casa/shell.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/shortcuts.py",
+      "src/prisma/gui/casa/shortcuts.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/__init__.py",
+      "src/prisma/gui/casa/style/__init__.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/design.py",
+      "src/prisma/gui/casa/style/design.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/icons.py",
+      "src/prisma/gui/casa/style/icons.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/popups.py",
+      "src/prisma/gui/casa/style/popups.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/status_pill.py",
+      "src/prisma/gui/casa/style/status_pill.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/symbol_shapes.py",
+      "src/prisma/gui/casa/style/symbol_shapes.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/symbols.py",
+      "src/prisma/gui/casa/style/symbols.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/theme.py",
+      "src/prisma/gui/casa/style/theme.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/style/theme_colors.py",
+      "src/prisma/gui/casa/style/theme_colors.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/surface.py",
+      "src/prisma/gui/casa/surface.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/surface_exceptions.json",
+      "src/prisma/gui/casa/surface_exceptions.json"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/surface_rules.py",
+      "src/prisma/gui/casa/surface_rules.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/table_accessibility.py",
+      "src/prisma/gui/casa/table_accessibility.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/table_state.py",
+      "src/prisma/gui/casa/table_state.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/table_text.py",
+      "src/prisma/gui/casa/table_text.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/text_editing.py",
+      "src/prisma/gui/casa/text_editing.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/tokens.py",
+      "src/prisma/gui/casa/tokens.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/translator.py",
+      "src/prisma/gui/casa/translator.py"
+    ],
+    [
+      "qt/template/src/sample_app/gui/casa/window_frame.py",
+      "src/prisma/gui/casa/window_frame.py"
+    ]
+  ],
+  "replacements": [],
+  "files": [
+    {
+      "source": "qt/template/po/casa/en.po",
+      "target": "po/casa/en.po",
+      "sha256": "eb23da7d7899aeb7f4b48d8ab0d302cc6e707a0622d8262b4de4a746b2070d4c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/po/casa/it.po",
+      "target": "po/casa/it.po",
+      "sha256": "73771f2ac1e491c51b255aef5019c776e03393b65a7303c066aaf4e13f4194b8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/__init__.py",
+      "target": "src/prisma/gui/casa/__init__.py",
+      "sha256": "ea8c1de038600fde69d59185086c9bfb4d3472d4916355c4fb0ea612b1004440",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/alt.py",
+      "target": "src/prisma/gui/casa/alt.py",
+      "sha256": "0563ad83db042c8ac93cbf57be2fc7e7a2c061a082d3907959655afaa02ebb73",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/arrangement.py",
+      "target": "src/prisma/gui/casa/arrangement.py",
+      "sha256": "2ee3fad2ad7858512879950b8e12b390d69e2188b57c2922509f1dfd7b041d7f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/columns.py",
+      "target": "src/prisma/gui/casa/columns.py",
+      "sha256": "e9a66c36d170de563d5bf8ec35697d07b477adf0e7d67de79822bd58c1d2bb1c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/commands.py",
+      "target": "src/prisma/gui/casa/commands.py",
+      "sha256": "221f73fe13e955a22e6d51446a1b77e62446e564ed312b3dafd8e93775c92a40",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/compositors.json",
+      "target": "src/prisma/gui/casa/compositors.json",
+      "sha256": "44100ada5fba31b381e1a33bbb823a5488520a91b4730881c29b9659d762749c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/controls.py",
+      "target": "src/prisma/gui/casa/controls.py",
+      "sha256": "877b63eef81e1ffceb984ae4ad97bcc695c4f7a792e66e0115f67c85d95e6006",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/LICENSE",
+      "target": "src/prisma/gui/casa/data/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexMath-Regular.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexMath-Regular.ttf",
+      "sha256": "10d07a23cb322725f83ca51748a4c7a61cf14caf2c4d880d793c65d3a1402533",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexMono-Regular.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexMono-Regular.ttf",
+      "sha256": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Bold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Bold.ttf",
+      "sha256": "9e6c74a889a700d707613d24548fe4ffa6bc59559a0689d2cf9e133bdcdafb2f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Italic.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Italic.ttf",
+      "sha256": "a9c6ef9942c49e49d11e11a6dacc0b3a087978757e9b22a06b8ac22a6400fb15",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Light.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Light.ttf",
+      "sha256": "2218b5f3f1fc9d3a793343f45c3be5ee7eae9584a7a52391bb8cf2d37622b3e0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-LightItalic.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-LightItalic.ttf",
+      "sha256": "54ad6d58d163b6b1f850fcbab3c46a1ed6c1ec3050524abb904c076a52c6bb1a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Medium.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Medium.ttf",
+      "sha256": "331c8639d7598b2cde62a911a71db195e30cb655cd6bdf2e324a7e984955f907",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Regular.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-Regular.ttf",
+      "sha256": "975dcda37d80f038dcd143c22e33ca2d97a0cc5a929aace1c749153b0fe1afa5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSans-SemiBold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSans-SemiBold.ttf",
+      "sha256": "a20caf8286023a6a7a85e40b1d2a4ae9fc3e3b1f9eda8f4c542dd4986af67bb1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Bold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Bold.ttf",
+      "sha256": "723e245902b45a49f8cf602d15891bae08c31309dce7c56d209d10cd471b88c7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Regular.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-Regular.ttf",
+      "sha256": "87aaee6ba9d2f80b8a3c1f6669e8c3d478b28b482f1d804917b3894694ccc12b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-SemiBold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/IBMPlexSansCondensed-SemiBold.ttf",
+      "sha256": "acc2b1e3b9597ee13b08b767f845bd038fe120cbee806859af7c01b60fe6e9e6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/OFL.txt",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/OFL.txt",
+      "sha256": "d741e57d5f865e294df801f96b7b5161a88b211df65887e4358d271c9fc5fb4f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/ibm-plex/README.md",
+      "target": "src/prisma/gui/casa/data/fonts/ibm-plex/README.md",
+      "sha256": "1f6382fb71526f639e9982a4d9cccbce4538b05fc028154a0e2e06d7654bcd02",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-Bold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/inter/Inter-Bold.ttf",
+      "sha256": "288316099b1e0a47a4716d159098005eef7c0066921f34e3200393dbdb01947f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-Regular.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/inter/Inter-Regular.ttf",
+      "sha256": "40d692fce188e4471e2b3cba937be967878f631ad3ebbbdcd587687c7ebe0c82",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/inter/Inter-SemiBold.ttf",
+      "target": "src/prisma/gui/casa/data/fonts/inter/Inter-SemiBold.ttf",
+      "sha256": "78a843fade9d4612a5567302fb595b56976eb5fcebf4fea5a5912d638bafcde3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/inter/OFL.txt",
+      "target": "src/prisma/gui/casa/data/fonts/inter/OFL.txt",
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/fonts/inter/README.md",
+      "target": "src/prisma/gui/casa/data/fonts/inter/README.md",
+      "sha256": "c20e81168f593d3ab1da4d03ad634f3d4f41d9aad682dcffb73a8082f5bcf2b0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/LICENSE",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/LICENSE",
+      "sha256": "b5b1f1da112d18ea2147decfd48ddc1bf2b5aeb6c265381579340e95b15a2bb2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-counter-clockwise-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-counter-clockwise-duotone.svg",
+      "sha256": "7f8253410467897776eff66017822f3b9b44f15a317d9d19b9a0ba07e277118e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-counter-clockwise-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-counter-clockwise-light.svg",
+      "sha256": "4fa31829e33a41171f3e5096cd19a9b7f00e4337944dee898f73be59d914ef8a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-down-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-down-duotone.svg",
+      "sha256": "79a6af31ae990d78742b2b0cd4e96cb1ee7734f7ff821c712c2895025e2e5ee7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-down-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-down-light.svg",
+      "sha256": "f05bddad29e8f49bbca166729a48fa1c2289cc51cbcaf5582f8fbe348cc2ce11",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-left-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-left-duotone.svg",
+      "sha256": "d9b9a505ce3f1240e989bac22aa2b4ba0458f580e2a5a8843c37de4a9cdc63a8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-left-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-left-light.svg",
+      "sha256": "8825835a66e7f6111adf539ca971cf03996aae184e69b2b6d3a597943050eb3e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-square-out-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-square-out-duotone.svg",
+      "sha256": "167643baf91c9a32e0ebfb85ed0549e757409f7b51238a594bf643820e791565",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-square-out-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-square-out-light.svg",
+      "sha256": "8d689243a98e594e6c9a88f3dc42cfb9fe4b1342a4d936e6dfc6005e589a3769",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-left-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-left-duotone.svg",
+      "sha256": "23c40b3701ce556eee89166f7c0aea2ee200177af773cddd0f538c1b152ee442",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-left-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-left-light.svg",
+      "sha256": "5e9d76554510221778f5fef0d182cbcef2b6af93db81921e8b8093bdc90e53b8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-right-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-right-duotone.svg",
+      "sha256": "25d375dd48f9773eb2dc7e5ddb96ee0605d454d58fc61de85601213e4f91cf4f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-u-up-right-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-u-up-right-light.svg",
+      "sha256": "66957bd344b9e1d207267f67f2dd2fbe86d5f638954e6981168a11694cbf175d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-up-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-up-duotone.svg",
+      "sha256": "15ea3ef574110052e5a695d6e356c7f1649597d10f30b27eff251df8a6fe1d9f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrow-up-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrow-up-light.svg",
+      "sha256": "c06d325e0f16034a32df2b60379dfa65598b0d2572ff5e7652eb2d1f498ee39f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-in-simple-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrows-in-simple-duotone.svg",
+      "sha256": "84f5a9c47271a15aaa4d683827b143b079d5f89ab9a3ab71c36d3b52447d1e0c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-in-simple-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrows-in-simple-light.svg",
+      "sha256": "be901d0e3c1f626634e6c67e5e5d3faa81f9b5c628d21aee954709dce263e6c4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-out-cardinal-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrows-out-cardinal-duotone.svg",
+      "sha256": "b6c49841411fe6d8f1de365c241688b3c3e1325d2726f6cd5323e5ebe4f05f4a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/arrows-out-cardinal-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/arrows-out-cardinal-light.svg",
+      "sha256": "4c3008f2c503c383783668a11246e90353921c1fb436c57f909c40b2e8cf65a0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/book-open-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/book-open-duotone.svg",
+      "sha256": "114456d637f78d1a748ef70768d3635c8f927fdfeed095a4ca9ded6f975ab8f5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/book-open-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/book-open-light.svg",
+      "sha256": "b7b13a145b236cc573434ce57a6e9a55157fe9583865eccc9ef0726fff5c4895",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/books-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/books-duotone.svg",
+      "sha256": "7898d95403db718d42cd3e4d8b9785a2c295076d500d4adbc174bd817167a303",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/books-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/books-light.svg",
+      "sha256": "e10b40f21931ffbe2544ae287f6e32af39562dfde16cb001fe578f82eceeb0b1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/calculator-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/calculator-duotone.svg",
+      "sha256": "b110d038082f3e83a167ff1c410f00802fa57c80e6d6fdc6e2c468487a6c87c5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/calculator-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/calculator-light.svg",
+      "sha256": "7d85572f4b978ebe63a029caf46adf4f6c675db03a72746c2e51d900b8d7631b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chart-pie-slice-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/chart-pie-slice-duotone.svg",
+      "sha256": "17cc2863e8f8c219ed0e854a62cdbb31ebfa12a71cf7e462f2e3ed53ef029f4d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chart-pie-slice-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/chart-pie-slice-light.svg",
+      "sha256": "12de30895d7d8b76fffc500c32999a4d903f2dc230f23c08f02598d5906d2b26",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chat-circle-dots-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/chat-circle-dots-duotone.svg",
+      "sha256": "361680d35411ce4611191eb4a24a1b7d309deee350a4faea1808bdcde5700045",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/chat-circle-dots-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/chat-circle-dots-light.svg",
+      "sha256": "25d56cf3136335ab88c138925761929dfa35cf8ee3f44f96bb3e391f06ec4a14",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/columns-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/columns-duotone.svg",
+      "sha256": "1290d2c1552abd7833309a47a8dc150674f834d45c85e0e5fbab64006765fe8a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/columns-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/columns-light.svg",
+      "sha256": "337ca58348d22f691d678ce9274911b6b6639d34fba38ef249e48f6355a0b1f5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/copy-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/copy-duotone.svg",
+      "sha256": "587be2bbc922a32b5cbd06d39b04129fae4bd01d9ee240ba86f635f6285902a2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/copy-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/copy-light.svg",
+      "sha256": "b21ef559e819123a013d96d82be8525f9e35abe09a07ad4092ab8096f38b877a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/cursor-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/cursor-duotone.svg",
+      "sha256": "8338a35eab745b15595208daae7340315b3f1d92f770433214637811a19056f2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/cursor-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/cursor-light.svg",
+      "sha256": "317c33bf9998ad6548204412fc20e43cea30c56afa363f4aa4abad0ed362b9d5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/dots-three-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/dots-three-duotone.svg",
+      "sha256": "f2dc4416d2cfcd821e56fa747e0f884ef311a147c5161848f2c216f903f57df2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/dots-three-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/dots-three-light.svg",
+      "sha256": "00df0c4beb1d8eaea39da61c32749aeebec8da89e4a5feb1253897e57620275b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/download-simple-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/download-simple-duotone.svg",
+      "sha256": "68ffe027868f3e33b2788d5cc246dbcb47a86f210b39a2866ab7e2d1cddee9a4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/download-simple-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/download-simple-light.svg",
+      "sha256": "dea5e244ee9cc9f78a9832b690f124d86cf71bc33b7a3ec809d53ecc3ba6b4a2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eraser-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/eraser-duotone.svg",
+      "sha256": "b462fc2b65ae9854ba1e3d6fdcce43fc742f513bb9449e61599965b388fe8331",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eraser-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/eraser-light.svg",
+      "sha256": "e617f9efedcf2b0d878f00896278644b63b1910cba402e6b5d8285c7eb703f1d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eye-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/eye-duotone.svg",
+      "sha256": "695dc8f0c5793b700905ced99225cb6bd891cd49ba5f00eb3eaff744a4bd1cf6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/eye-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/eye-light.svg",
+      "sha256": "d7caa325711784ed9cda49b32da9ee49705fce80825b40c0ba43b82e14d216cf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-plus-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/file-plus-duotone.svg",
+      "sha256": "df9d4b4276e7c6b9de7b3e208bcc41a3dc9b6eab011be751aed0ffad94c288a9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-plus-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/file-plus-light.svg",
+      "sha256": "c2ef343715894a07442ebfe631fcde98c0f9c89c3acf2564742340759053f049",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-text-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/file-text-duotone.svg",
+      "sha256": "6b0867a397af11f3c0a66091a4e17e3c172a42f48812ba99fc8157d9093cb7ea",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/file-text-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/file-text-light.svg",
+      "sha256": "4579a0026554224ce339d52b4bf468f246e010f58bec025f5019f63e3ab67530",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/floppy-disk-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/floppy-disk-duotone.svg",
+      "sha256": "f71f3cd35caa70eb63a6e12fb50b0ac33051f2889cc010f7423ee8342a0d36a4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/floppy-disk-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/floppy-disk-light.svg",
+      "sha256": "12abe10b1aa13dd12cdb1f43c8bbed2b856dc18941fab7c7a2a5ad2d5c4cfa3d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/folder-open-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/folder-open-duotone.svg",
+      "sha256": "1dffe161c141ddc915ef97be2ca0264f7d1cfb710112a5d51e4b2c86a63e6aae",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/folder-open-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/folder-open-light.svg",
+      "sha256": "2aa614fd18fe12dc376950bfae276264f1d073942c1eb05224589065a9d5fb4f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/gear-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/gear-duotone.svg",
+      "sha256": "844f6e041e4622283f651e76882c784af0627f950a6a2536e923b12e4ae5e590",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/gear-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/gear-light.svg",
+      "sha256": "f31ef3e36fb8ffdbdffba0cff464412fe3f903c606e06438129f7a7937b366e8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/git-diff-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/git-diff-duotone.svg",
+      "sha256": "8681483d50dca2d393c4fabf7fbfb1cd2fceec587f6582a0038c221d1a7569a7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/git-diff-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/git-diff-light.svg",
+      "sha256": "ffef4f4ff712df3c83cd41b8f40f4076ed65137175d2045fbbf6d50168bd8ab0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/grid-nine-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/grid-nine-duotone.svg",
+      "sha256": "a2ce684a854f339cada68550e5da7fa0e881d962a87f1e34d9a3e706d1647050",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/grid-nine-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/grid-nine-light.svg",
+      "sha256": "09ba98b18ae2973720809eb75d670832043cd57f119791a0454ea9d64ed1436d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/info-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/info-duotone.svg",
+      "sha256": "dec9ea1394c618d6d576ba43e0f08eea265eaf20046e98bc3da19eb4b8da73e8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/info-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/info-light.svg",
+      "sha256": "c57885e282dd796185bd330356a96cd2090313b3bedafaf41f97dd304df9c87c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/keyboard-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/keyboard-duotone.svg",
+      "sha256": "4484955d19ca1e9054e2b9faf9085c34dd8292d18dd01090c6873205d0817b1b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/keyboard-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/keyboard-light.svg",
+      "sha256": "e0c6a27568a57dbc3ec2a5d08c8412ded8fe73a431d113c8040b9e5755db2894",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lightning-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lightning-duotone.svg",
+      "sha256": "aab43bf156d9047ff4002359cecedc867c8e3fecd9d1475635ea4e7b8416267c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lightning-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lightning-light.svg",
+      "sha256": "fd7d6084635ba1ba9143e053aae3117a89a9e37505e453068e471a1bde11c0de",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/link-break-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/link-break-duotone.svg",
+      "sha256": "9bfd68442f6a556bdaad842903f563ca63f12d00bd5c36f78b1e47d6faa479d1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/link-break-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/link-break-light.svg",
+      "sha256": "6d185314de43a06cccc98a7ed52120e32842c7dc6aee79aa531112313ad3dc27",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-checks-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/list-checks-duotone.svg",
+      "sha256": "aa71967b96fc44f2e40fabf3b297e333925c994cc22a2da2177980b7eea5a55e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-checks-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/list-checks-light.svg",
+      "sha256": "4e99f4baac10ae8acf595247c0bbbf587707107d1bf7f60b8ef73cfa7a41ec3f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-plus-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/list-plus-duotone.svg",
+      "sha256": "73750fb3e2356654ebd3a2aeeb98e79996a6cfb45f38255a28de953cc28e7140",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/list-plus-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/list-plus-light.svg",
+      "sha256": "6af41639e1872ef35ff79d54b06cbb194fe0655a43d66ed4c7d222241b0e6744",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lock-duotone.svg",
+      "sha256": "08412a11cc0ebb4d842904f2930ebdf66d12439e95bfe6c5a7174505c0280149",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lock-light.svg",
+      "sha256": "0ec0e2155dd42cc5fd990234ab806600a5aac0ba992fb4687704cf017a00f7f3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-open-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lock-open-duotone.svg",
+      "sha256": "18fbc1c7c45b4f3a67df52c94f1ae757141d60ff4abee37b3763afba391950d6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/lock-open-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/lock-open-light.svg",
+      "sha256": "21a5de96148a3956450ddeeaed8e023c03394409bdcf5b38a8ff75aaca7bc268",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magic-wand-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/magic-wand-duotone.svg",
+      "sha256": "923eaa6b49c427a640c2fc6e1bd0bc36686adbbff28672b4f8c10f48415d3397",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magic-wand-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/magic-wand-light.svg",
+      "sha256": "1bc7ed0f483b1ed26b29720755c77d21713f22ff7feb027c9b396ea7a2941055",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magnifying-glass-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/magnifying-glass-duotone.svg",
+      "sha256": "7a840ea2341e75cf1d9187e07223be4501d6c6078a064a4097be07c1b3a52fb6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/magnifying-glass-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/magnifying-glass-light.svg",
+      "sha256": "e24a8c8778901b20b37d025f49c72ebfaa28c5f46d68c6c4fea82fa8f8bf1ee3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/map-trifold-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/map-trifold-duotone.svg",
+      "sha256": "51fc6df1cb4a67fcf8ec828735f3d2eb163c14d998b2bd34b1507782bf40bb5c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/map-trifold-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/map-trifold-light.svg",
+      "sha256": "ae0ccb5357a25c7221013d556282c6ffb2cc644de0fd47658718bf8a4dc6581e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/note-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/note-duotone.svg",
+      "sha256": "e95bd4c4c2144398c68cc9a60c30895e25411e741096925edec402b31221ef83",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/note-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/note-light.svg",
+      "sha256": "91027f93a3af6b563463eb4fceb8ab554be95ca0c48e3aaff6aa74db9e30b042",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/play-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/play-duotone.svg",
+      "sha256": "8485ad1efd20878370885ccf7b825aae21a3b2fede35734484475672ac707c48",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/play-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/play-light.svg",
+      "sha256": "9d9ac3f00479550fecdd3f0cb11d131c555ceca77bff4c1ef5bf21c770ec1488",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/plus-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/plus-duotone.svg",
+      "sha256": "e1dee25823800a7cfff6c5cce5693bb4daef55657e99bfde7c5b57d7c7e17998",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/plus-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/plus-light.svg",
+      "sha256": "d924e999d110e1f84c3197dba33206d46fb94cb28a2b53f6ca35217466e3c92e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/printer-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/printer-duotone.svg",
+      "sha256": "0db8f4860c37a3a9e94b9bee6c0494abf2e6dfad0c6cc0a9e1301d02f2f0e437",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/printer-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/printer-light.svg",
+      "sha256": "3b88e55369c8152593e8b3ba5cfdb3a33b27ec976f159831f528708f5e4443ed",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/question-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/question-duotone.svg",
+      "sha256": "af995bac28b5f0007c9ff20cf23351dba0a8c07cea55868cd8b65056bc103515",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/question-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/question-light.svg",
+      "sha256": "c122a1cc393313d1e969e6ae873cf72353198590e50195826a265b65afb38dc0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/rows-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/rows-duotone.svg",
+      "sha256": "1c9c8911fcfcd710b3d1594b3c7dbd7ed68f357b5ce4c7d1cb2c24d342507c95",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/rows-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/rows-light.svg",
+      "sha256": "a4905a46634b293c50aad69a5434949eb35adfcaff1313a2e2e7269ac965781f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/ruler-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/ruler-duotone.svg",
+      "sha256": "d021b75ee2515cc379045ce46fad6f7c5669be42e7f5a507d77902febea385b2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/ruler-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/ruler-light.svg",
+      "sha256": "4e23a090aae41a1195e0b2c98557b59c9712623df86cf79b053b5371cbef5530",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sidebar-simple-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sidebar-simple-duotone.svg",
+      "sha256": "7b23c859cee86dec8913c8d9fda9b4f20e2e43f5d5f5d7043b87f0a3cc9ca7e6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sidebar-simple-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sidebar-simple-light.svg",
+      "sha256": "eb4694ef6ab380723715d77e54958003efd10974ad765989b8ffdf899d03fbcd",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sign-out-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sign-out-duotone.svg",
+      "sha256": "4a44a628329ed8d4e17167610e27f289f1e068b27db1a5e8284415b0c245a6cf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sign-out-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sign-out-light.svg",
+      "sha256": "df41aa98d3397c2081d40cf50301d881a790dd6d8072479d64310618e73c2f19",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sliders-horizontal-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sliders-horizontal-duotone.svg",
+      "sha256": "76260b62780cba20278d8c45eb9107801090414b0fbb8a6b67c97860664d7237",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/sliders-horizontal-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/sliders-horizontal-light.svg",
+      "sha256": "fc2bcb8ac38ce3a38f0dabe03e2e6dd19dbd40e978b86797e498e8ac80cedd18",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/square-half-bottom-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/square-half-bottom-duotone.svg",
+      "sha256": "0d17ad1518eecb5d035b8986db0a3e993a010148d32d7a520557545a041edd89",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/square-half-bottom-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/square-half-bottom-light.svg",
+      "sha256": "cf982ece7370ef38494244269b4eb96d86f1726b155024adf39e7bb833aeb379",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/squares-four-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/squares-four-duotone.svg",
+      "sha256": "08872949367b6a6f2f0578ff77364f6c8ebb407942629a28b322194512927381",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/squares-four-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/squares-four-light.svg",
+      "sha256": "ee7c387692cd3d2d6029dd3dc1f94a7bc7502e00ecc3a85e73daefd9fd382629",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/stack-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/stack-duotone.svg",
+      "sha256": "f1449eb8dcde911c59b913042bbf51ee9778aae9eb9663b7b14a8d9fe1032aad",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/stack-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/stack-light.svg",
+      "sha256": "9803255a4fc3fd5bf33e4f73a444047a4de352401156f7419a16ddbc6d564953",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/table-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/table-duotone.svg",
+      "sha256": "9d5d194de48b3983c3e666fe8e1089cad925adbde10477f0908066f38b919c71",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/table-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/table-light.svg",
+      "sha256": "129aab7f1da85d4e3f355ed12bdc7b8ff848c7b9bd28c71fe650b40714a83ce7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/trash-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/trash-duotone.svg",
+      "sha256": "a027137fcada51425999e4305ef8c9baec2328364c092fe94b48fa9eec7adc6b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/trash-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/trash-light.svg",
+      "sha256": "66c779b57b990777b9f2d311d5957b19269ccf9f79d73c5eed6d0f6a2aae3370",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/upload-simple-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/upload-simple-duotone.svg",
+      "sha256": "f95c3c5150c3c15e27828fd1600cc8b00a60c236b7c911da89941da4bfdb336e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/upload-simple-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/upload-simple-light.svg",
+      "sha256": "5edf1473c405eed3d11252da3b8da4b89d56f57d3bef1dbf6a5861ed13c24012",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/x-duotone.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/x-duotone.svg",
+      "sha256": "2092e345cb389e4b3c9795d5aa467b7da4e230dd257ba40845a262c80d51f1ab",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/data/icons/phosphor/x-light.svg",
+      "target": "src/prisma/gui/casa/data/icons/phosphor/x-light.svg",
+      "sha256": "7f3f44f5e9fdc40d7d8ecaf49c9b2cca95a6f7b944f81f7ae5d8d8bb674d8d91",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/dialogs.py",
+      "target": "src/prisma/gui/casa/dialogs.py",
+      "sha256": "907a00505e134c488f4b036bff79a1bf216ff8ad8c3d6c92edf6be10abef6fec",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/files.py",
+      "target": "src/prisma/gui/casa/files.py",
+      "sha256": "c0710780b530aff9d8724ccc51d5217f3c22de3a48990c6b7a61d1db694c4c1a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/pages.py",
+      "target": "src/prisma/gui/casa/pages.py",
+      "sha256": "cce8e3ffcd2e0876197a3f2fd17e14f4e17f497e263e4faede2d5b23a9d917b6",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/parts.py",
+      "target": "src/prisma/gui/casa/parts.py",
+      "sha256": "38641245a34d7190e7da995cf5bc16659ac3813cbc9bcf801a3df76e8a5bc692",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/platform.py",
+      "target": "src/prisma/gui/casa/platform.py",
+      "sha256": "836d394b66aa6aef2e74d4865cca6e4d6bb20e631d47a36d5ec2c21eaa873884",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/properties.py",
+      "target": "src/prisma/gui/casa/properties.py",
+      "sha256": "9b5448145ea749809b839a9d02b3b50b4ee2e108adff4b6134027d3b324ae78a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Arrow.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Arrow.qml",
+      "sha256": "c49d12362f2c72d097dee4ee3121af8ee1c1759c9dfa801ced6b4dff603e687a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Button.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Button.qml",
+      "sha256": "98cbd59460c02da0825bab7b347da0c71c6c2e6e6e6d673e5dd1bc55ee27b55e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Card.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Card.qml",
+      "sha256": "6221d1f6de19905b5357680bc4a890cf180e123ae40fb0910e76cdd5539a199d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CellText.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/CellText.qml",
+      "sha256": "55199e1dd9953b4816b72198df2d5c38986bc784b514aef1601e73e8444f6f34",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CheckBox.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/CheckBox.qml",
+      "sha256": "7ef38b7cff190b5e307d2f75db021c86fcd1699b5c63f9f1ec49f85fcae9fb2f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CheckMark.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/CheckMark.qml",
+      "sha256": "78b7ae5b9fee1a7004c53339f58fb56247ae3b347120f7421d937f55720d5598",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Chevron.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Chevron.qml",
+      "sha256": "d6aac6bda7c4603762e4abbf3f5c349c13381eb4a0b1c415d8546276d1925b2d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ColorSwatch.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ColorSwatch.qml",
+      "sha256": "79a6ef2ddb52736b371b30ee6ebbe70022b7a96ae14069a9b44b4286a6e51f98",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ComboBox.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ComboBox.qml",
+      "sha256": "3d359a3e85a7971f4b0f4ea687ffffa6adf95ca6d5bfa4d96f46f87940368b0b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ComboList.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ComboList.qml",
+      "sha256": "6d6a11627257769e73c3b798e6e07d8a42e1be23c1859b11d339ba82465c1a58",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ControlMetrics.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ControlMetrics.qml",
+      "sha256": "dc896e50e8303c46cb923b5e922d516444405aea3e6d0f9432fa6d467960eb6c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CopyLabel.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/CopyLabel.qml",
+      "sha256": "269fd34bb270e168111a3812205a297d2942c6b901db0303ebbaf884134eb114",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/CountBadge.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/CountBadge.qml",
+      "sha256": "09f4455a3e204059bfa00205cc4f5c8d09fb7a7843829fcec14d82812ddc58f0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataCell.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DataCell.qml",
+      "sha256": "d0f8ec260d79bbf742376cec627065bf82d153a92261d6a9cd205f387dec45b4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataHeader.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DataHeader.qml",
+      "sha256": "5fd0851e46e7f1ddbebccc92735c85ce0586874ef05d3be4d91b5cb017543420",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataSheet.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DataSheet.qml",
+      "sha256": "af5eef7c9315f2d02b6e0dacf5428b031b875d7241b9b8768ef88f86033e66eb",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DataTable.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DataTable.qml",
+      "sha256": "b2ec47ac0dee84e978b9b490a9d2327d6758a4c3fa55d772f7dd6501943e51ca",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Dialog.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Dialog.qml",
+      "sha256": "19cd54f953bf87d4e317cc75647ae6ec5ba84b7071faf672d9e45a5876d487d9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DialogSizes.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DialogSizes.qml",
+      "sha256": "20d0686323bd1a1989f86e9adbfd8b260eacfbcb5de8042803c7bbbaa0596859",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/DropOutline.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/DropOutline.qml",
+      "sha256": "c6e78266cd0edca925c5f100976e2e0ec32abdff718e2a9a5cdc1de39a5dcdd4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/EdgeFades.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/EdgeFades.qml",
+      "sha256": "cd8ec85622be85e22eb355f440410fc6762f709a2bf51b687fa4b3995950f5b7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/EmptyState.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/EmptyState.qml",
+      "sha256": "a4b45d3280f8a96e10c5dc24354c609ba273415cdb0df7849af5e0e0d26b2802",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/FoldBody.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/FoldBody.qml",
+      "sha256": "b0acdccf5190daf793e40085a1111eb5a8c675de7e31cad6b89c72c38d37e99c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/GrowingField.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/GrowingField.qml",
+      "sha256": "472ab25a86d5bffdb82b62266a66e62e0b2467a64381f2de79bb8926fd7a11b0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HeldHeads.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/HeldHeads.qml",
+      "sha256": "e15880c12dc25b49343ae75b856cf8416ffafc904b3735168dd83aaad48f11ab",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Help.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Help.qml",
+      "sha256": "02845018f681e048a15ca799c491425e58990fd2d3c693fa05115c13b1b679bf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HelpBubble.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/HelpBubble.qml",
+      "sha256": "f6fa14b6eb3f04f03c832fb725fe43cb13a8dbc1cc6a8b567f2c724477b126b0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/HelpMark.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/HelpMark.qml",
+      "sha256": "46087f75ca9d96b83bc98f2df2ad9dd470adc6da6ab34612eaa0e1af9458570e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Highlight.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Highlight.qml",
+      "sha256": "4d3fc17c4bd4201253971062b4986a3bd9d1a5d31a57334c11cfaea2bd2f99df",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Icon.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Icon.qml",
+      "sha256": "d9e69629109125aa592bb1c5143af52e833116a69439b6a5e578ee39ab600d78",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/InfoGroup.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/InfoGroup.qml",
+      "sha256": "058b58a54b76677917bed8af93b69f54f7750bc54289d2f1c3b7e52768c42cdc",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/KeyedRows.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/KeyedRows.qml",
+      "sha256": "8217102748c8ecf972155ab00bc01bc593daef16b71e6a51d9a612b44425550c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Label.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Label.qml",
+      "sha256": "f2f56b35e933b583d88e0059425bfe112ae3dda5d96f749745ec6dacdd5ed35b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/List.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/List.qml",
+      "sha256": "a147f4abbb06f0a729485b635fcf2f875d8fcc15eeab11e85343a8570367c57b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/LitSide.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/LitSide.qml",
+      "sha256": "39396b8f3617e67926643f7877ff1876d7100e8a44df710c51c59a4d3cb1c9fa",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MarkArea.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/MarkArea.qml",
+      "sha256": "fbe9486287f12f849f810f125f7bda11eb3cf9868705ac09ba1625cc571d6df7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Menu.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Menu.qml",
+      "sha256": "d9afe67fcd4a6e800f6106994b611874af4dca38399236757222737ac93dd7f4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuEntry.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/MenuEntry.qml",
+      "sha256": "34adca4aeb9a479d3bacf16636be9184fec369114af689fd3e0a3e2b464a1fe8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuItem.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/MenuItem.qml",
+      "sha256": "4ec799fd20f6d21d3f97c3b67a9772aa2cf87f3f12effee14f72b6f290b35f22",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/MenuSeparator.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/MenuSeparator.qml",
+      "sha256": "d9ee72774f5b7870327fce48477c6b407b0442d5fe757cef4db83f01de48370f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ModalVeil.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ModalVeil.qml",
+      "sha256": "614a172145774252674a0da9e38bcb62e514746ff7207bcb1d664723a7b955e3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/NumberField.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/NumberField.qml",
+      "sha256": "9cd6057828f83c93bfdd56310e803f27e85861aa6756cd94d789db86f9fcd8a4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PanelPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/PanelPage.qml",
+      "sha256": "459bc47b6a05ca69150c79c22a1dc4eeee5ad3969a0b4937754d27ff658f8235",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PhaseFade.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/PhaseFade.qml",
+      "sha256": "af8864ed6b996c4d699905459449915035e825e6d0a46b2051b2d1ce2b375848",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PhaseLoader.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/PhaseLoader.qml",
+      "sha256": "676f25c2e3b79f7e6a06c197678af1bd2abdd7da5efe83b312d1d9866218dd01",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Pill.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Pill.qml",
+      "sha256": "a24628ae738d71a4c8aef80f97f76facb8f1b204bf7c07b81a2b0727a92f6196",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/PointerShield.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/PointerShield.qml",
+      "sha256": "984dac164a1f47a1a40d8e89df433d200fad7494e09181f1951ea166bf95627f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Popup.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Popup.qml",
+      "sha256": "951c2bf895a3599a3cfbc1df049553685dcac871cd9a5e53b387d9bf574c5996",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ProgressBar.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ProgressBar.qml",
+      "sha256": "27f561f4c16acf6dbfcaa87b17be19b4e86d909aaba5087ecf6d69c17c1507b2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/RadioButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/RadioButton.qml",
+      "sha256": "bc54ede4249c188f0ce068d14a8d37555e3712047b9cb187bdd718c249037a01",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ReadableText.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ReadableText.qml",
+      "sha256": "401b4db2e43893daae80a01b0114aef3146d1c3ba89ddebf46acfad8b8a0a210",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Rebound.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Rebound.qml",
+      "sha256": "2732b6e9d04902ab671178873da4341a68f85747ae4ffde5e554cdbe981b794f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Reveal.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Reveal.qml",
+      "sha256": "bd6b94486cf57c2bb71d1f2d4de040444036b4f2e9570d1543086e7c4752c787",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ScrollBar.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ScrollBar.qml",
+      "sha256": "aacd8cf1167ae0ea7814c05006db245399097bbdb078621132edbbdbf21250e5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ScrollPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ScrollPage.qml",
+      "sha256": "f401aa88441ef974ba2da4e07cfaa18e53ed6b1cf082bbca343c6fa8645cb072",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Section.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Section.qml",
+      "sha256": "d3c5da70a32750fb095cc7660c6d39cde3436a7fae32015db7d00eb6c88aff95",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SectionBand.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SectionBand.qml",
+      "sha256": "e82439edc452e802e7dc93c23431213649a29f294ee17a52d2306819a44d9f24",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SectionHead.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SectionHead.qml",
+      "sha256": "ccdfdcf63b4879f84e8a643ba150164f320f4adc2eea76b130072b3fdf0a9528",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Segments.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Segments.qml",
+      "sha256": "9e686a57671297af1b20ff090df3c2a7bc79ed905751baf3a3ac0a348a06d549",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Slider.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Slider.qml",
+      "sha256": "aaafdd6e6fc806fec6dc748b9e0bb83ba8a5855b7af1577123c00f95f26f54d3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SplitButton.qml",
+      "sha256": "5db418bc2b3ed3c889a69139c04ab889d9380e6242be9b9119113c37ee431ecc",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitCards.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SplitCards.qml",
+      "sha256": "38c8227e1caedfe0b153896b4f19fb473294e0564c2cdb6301b892735bd2c951",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitGround.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SplitGround.qml",
+      "sha256": "dbcc03fbe97d3a341b28d7ac6333adbc321a76427356b0e3fb4a95bb31cba7bf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SplitHandle.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SplitHandle.qml",
+      "sha256": "823f147b86561ea79329972f766481753df1197348e5e41838b77ec8b1db6276",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Stage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Stage.qml",
+      "sha256": "469553d64ace0c4902a0b371bf2047803cfe5498b4038c51748ba7cf66765c65",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Steppers.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Steppers.qml",
+      "sha256": "a623b876c1f25d08b6ab69f30ec27c1bd7c124f378f92f0238c7f16064b857a9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SummaryFigures.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SummaryFigures.qml",
+      "sha256": "1aa21b676bbeb290257a673eec87a31d8eba7d50726379b9ceb339fda2b02809",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/SummarySheet.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/SummarySheet.qml",
+      "sha256": "592f0dce3e963c4f8315921740328c736b204ca5df0fbc8bdff6d1047b1bfbf3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Surface.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Surface.qml",
+      "sha256": "444e08c36a8d362464e253995d488bdc371bfa1d654a21dd9d7a54e082835e24",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Table.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Table.qml",
+      "sha256": "b699d2dc8f805bae2a038ce03d0d86c59048a0b8bf5d2a9f00a03f5f723ac039",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Tabs.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Tabs.qml",
+      "sha256": "cb7928e65e0459377d44a15c5578f1dfbf93f67e9828d311f0ac6f69f29836c9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextActions.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TextActions.qml",
+      "sha256": "06ebee20fa761289509b4b7bc2a23ef63666fb306df199e35501bf666baf6a11",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextArea.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TextArea.qml",
+      "sha256": "00a8fec005a60f01283dafdc6e52c7edc4bf7c270c9394c4201d0f4db169eb51",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextField.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TextField.qml",
+      "sha256": "48707f23bc8dd95d0235d10f85ae7b2672a06f2b11fbb656f09146e8754ea81b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextKeys.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TextKeys.qml",
+      "sha256": "1b7482dc6e7d23400fa544528f98916063b43edefb8ed0829460e91e30128b94",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TextMenu.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TextMenu.qml",
+      "sha256": "9b661b6bb1d1b664adfb572b4634ae7e4da03fed3d61493edbc6dd900b726d07",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ToolButton.qml",
+      "sha256": "b601382e25af315be9dd724a053b64ddf679b84bdbad1c04e37790f1419e7eda",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolCursor.js",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ToolCursor.js",
+      "sha256": "c0f391f0c6715a7b884541bb00a2960523fc556cfb2bc5dce4860ebb932ce517",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ToolTip.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ToolTip.qml",
+      "sha256": "968ff28461995bc1e0450d263c7c2b3150da003902857bda9ec45ece3459006d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TotalsTree.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TotalsTree.qml",
+      "sha256": "5ff0204b66d196e1f2027e94744abbd2d1cdf3f1c980ed347f19d88675b97e68",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/Tree.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/Tree.qml",
+      "sha256": "86c65624512aa809768899ce80b8bc9954b86177201e0cbd4df3ba6f81f5b4ff",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/TreeSelection.js",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/TreeSelection.js",
+      "sha256": "28cb3fe997e3a3afda4f671800c0124b605ba939df32fd63c38e9477a582018b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewMarks.js",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ViewMarks.js",
+      "sha256": "c194593a686fcd29033ba5d8b90eaf6e052c1a80a8b53f4ccd916e3dce48c325",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewPath.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ViewPath.qml",
+      "sha256": "49c699e2ab3b2d6ec13be87920c1ded9f2f746c793fc737059b8d35dc4c205c4",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewPoint.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ViewPoint.qml",
+      "sha256": "ed009f0bf5f77c2234859adc22b8745927e83703b31ffccaccd64a6569706045",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/ViewStroke.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/ViewStroke.qml",
+      "sha256": "5d20c0c3265bcef201d1e35511d71616decfcac4cd3a3de1b4466f4a88284457",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/WholeLoader.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/WholeLoader.qml",
+      "sha256": "d314767f5eb0276a7b1a7b92bd326ab52464d6d6c1adf15e4abb4dbe7479e69e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/WorkRow.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/WorkRow.qml",
+      "sha256": "9465aff6776247b90651b23740d10b92f29a8b888e8ecdefc7aed85fb9e7041d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/edgefade.frag",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/edgefade.frag",
+      "sha256": "8ce725a0d1a26a7204dcbb811d27eda95183bacb3959ef053dd92d23d9556c11",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/edgefade.frag.qsb",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/edgefade.frag.qsb",
+      "sha256": "bc8e98a662824f4f35bac4b3e26e39fc8e2666e61665012738fde096ca81166a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/qmldir",
+      "sha256": "2b601ebdf7c22f1e67314958bc7d7ec40d37741a6ae49a6ffa2c3530bb58a2de",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/surface.frag",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/surface.frag",
+      "sha256": "5cf8fdd6ddfa5aa45c471884239fd9b1598bbb876817f11d3562d73c3c0d45bc",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Controls/surface.frag.qsb",
+      "target": "src/prisma/gui/casa/qml/Casa/Controls/surface.frag.qsb",
+      "sha256": "1c632117be42b5a20d5de6dbd35872679df7668805b5c4b6e547d585a9a1fe65",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/DialogLayer.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/DialogLayer.qml",
+      "sha256": "b7e5600d6861f9c8c04ce11995a9e00281fdb0f395ff67c7dfa835cc8e0a63a8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/DialogWindow.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/DialogWindow.qml",
+      "sha256": "a86f3d32855132160a26fb2d3b7687b92841906d67d70b6d6215f7c8fa82aa2c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/FeedbackPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/FeedbackPage.qml",
+      "sha256": "1503dfbb7fb4194d3e05567a617a88969f2362dd1cc46746d85606aea13cdfaa",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/FormFields.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/FormFields.qml",
+      "sha256": "3b229e781d426e1a914d3ea3db31018f5a40475c38fe371ac72181f71eaf6828",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/ShortcutsPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/ShortcutsPage.qml",
+      "sha256": "9a7bb5f92755f762b42749312099c9d4070c54cbd117bc0112b49fffcb4f1baf",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Dialogs/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Dialogs/qmldir",
+      "sha256": "e04aaed1f296319086ade45330bf4a03a167630f0128c3d5afe9f3df7c58e9cb",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/FilePage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/File/FilePage.qml",
+      "sha256": "1ed6071eb7c822a5f638c7ccfb3fe56330848e553536b7871dbcb27b9e1956fd",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/FileSection.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/File/FileSection.qml",
+      "sha256": "7f014244de3da5ddbd842aeb9f9534e20a6cd0b04ce849fbe2ffa67fb9551864",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/FileTile.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/File/FileTile.qml",
+      "sha256": "db8b52f2ec1973a315f55052de9c8a03478afec52098a8804e3fe9d75ab32cf9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/PageHost.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/File/PageHost.qml",
+      "sha256": "4752b6d332cd76096705424653bddad4a0664f4fd9ff37ba1e501c6e74ba9651",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/WorkbenchFile.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/File/WorkbenchFile.qml",
+      "sha256": "f65a6c0c6de18b2d45068fdb5594f8bf4be4e089e2e44194457052d8c439a79a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/File/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/File/qmldir",
+      "sha256": "a340fc7c868e25fd795277fc5c8d916c373a2c11f67595f8cd3d16b4a97076a7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/ElidedLabel.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/ElidedLabel.qml",
+      "sha256": "16ff6bbe0c2e42e5f84fa06262f94f9709af8bfd621852d8038c7a2c7106ae92",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/FieldGrid.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/FieldGrid.qml",
+      "sha256": "3fa7f685ef222e68b1a24c27ddc4c1e103cfd6bb3d2ed17fd435cb15a5479bb0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertiesHost.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/PropertiesHost.qml",
+      "sha256": "b027b3c706a81e9218a0b0f48bdb08a1d40df93e2ec71e9d22d9c53334536a08",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertiesPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/PropertiesPage.qml",
+      "sha256": "14f1eaa4cfd74a173fcb206bc777a6eee160b9b3205e5f4084669a0c7bbfb1db",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertyEditor.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/PropertyEditor.qml",
+      "sha256": "75b697fd552a8402350bee42ba7d489b9b6cf962bafbec9ce03527a6b5e14b84",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/PropertyForm.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/PropertyForm.qml",
+      "sha256": "2b48cde1f69934a9875660e679938325afb345e4df74055f5bcc73fbc6d7badd",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/RowList.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/RowList.qml",
+      "sha256": "7059e246b25ad87aaadf93bebc508edada40a306a713d5cc3a3c6ac99f5c6be5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Properties/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Properties/qmldir",
+      "sha256": "bb21a4d9fb9f88fa161d5220e0550b1ed89841a4504b8d9ec64d0827c31fba3c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/AppearancePreview.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Settings/AppearancePreview.qml",
+      "sha256": "c752cad969e75f722853bffb0833674912c18ae546ed13fabb378d080356d42a",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingField.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Settings/SettingField.qml",
+      "sha256": "8b06e9bbb31c6b32f7909895ecde547828484530160d7210d9aa2b705e9fb8f1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingsKeyboard.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Settings/SettingsKeyboard.qml",
+      "sha256": "166e94d32384cf6dcc67b8c6efe5c56d0feec74fd88311ea4168c4a60fc44dfe",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/SettingsPage.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Settings/SettingsPage.qml",
+      "sha256": "cd845c06c861655faf34c3a6f8610fa87f2711d49212963992d0473dcfb32188",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Settings/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Settings/qmldir",
+      "sha256": "25f677250eb79f67d08535852df604f5825cad8a29f428bab32ed3f3b837b8ee",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/AppearancePanel.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/AppearancePanel.qml",
+      "sha256": "021ff39487acb7b1d2cca5891f6c2bcbc99dfabb6a8fba2146a021d5825bf03f",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/CloseDialog.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/CloseDialog.qml",
+      "sha256": "3573491f3e3a31bae648b2b285054d462673460ae5c0ffe8435ac2d260620232",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/CommandDialogs.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/CommandDialogs.qml",
+      "sha256": "99fe94646f6186094ba840e704e511c429dde716081d1b30f3e29c15c739cb2c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockMotion.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/DockMotion.qml",
+      "sha256": "778319837b98e50ccc0bf955c7eebac1cddc31da01611ad40a174732ddda0f7b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockPanel.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/DockPanel.qml",
+      "sha256": "ae0a24f7523f1db7b08fd6b8084788c385c30b133fe732a51fff2c77cbec44f3",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/DockView.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/DockView.qml",
+      "sha256": "f7ee1061bcdfd0bdd3ac46d21b49c3d896a767ecdeac59359da50f3383847d2d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/FallbackFile.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/FallbackFile.qml",
+      "sha256": "02b704ec4ca8cb912ace89d35a46787cc7710e34d1d72a61fff7d28da00d9fd2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseHeader.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/PhaseHeader.qml",
+      "sha256": "313b7a17fe7f0ec2b0add63797bb21b735de256cce290365aa45a7556325ec85",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseMore.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/PhaseMore.qml",
+      "sha256": "8479aadf7cecfc7c3ed1bae56ad0d20a9e6d9d5d6be22553208274529c2ed4f1",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseSplitButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/PhaseSplitButton.qml",
+      "sha256": "26ee861a7e94086017606d5cbc8034ee06be4b96de83f4098acb85d8ae002021",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PhaseToolButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/PhaseToolButton.qml",
+      "sha256": "b41390d7aced8f8e38cd504ec52e063cdc0b819c99a9f04672bd5459a9365b2c",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/PropertiesPanel.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/PropertiesPanel.qml",
+      "sha256": "739a19d2f0dc9cbe4365f7f29705794528f49a851814cc76dc8d7a15386dc52b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/RecoveryDialog.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/RecoveryDialog.qml",
+      "sha256": "ff40bb3560ffb97d9dea0441bc672b0b6eb1ace99d64b8526e774d9cf58066f7",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/StatusButton.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/StatusButton.qml",
+      "sha256": "68737fcc0208f0979467544d0ccc651a9382f72eff0b4f140d8f064ccf27ee18",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/TitleBar.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/TitleBar.qml",
+      "sha256": "17aabc3bd8ebf8f283dd5e7ff725d124ca89407e2ddc110677c60a82cdedc457",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/WorkBar.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/WorkBar.qml",
+      "sha256": "1aef115b5a93855d7f949e80d28fb5673b1986517f2d2be50eae273555c144ee",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/Workbench.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/Workbench.qml",
+      "sha256": "2a84956702527d730ebceae27b88d77ffa12bafadf11a565b8ec906eafd62284",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Shell/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Shell/qmldir",
+      "sha256": "875666f879697fe5bb34bb51e748b5555a68f4a450046795897efce935b72a18",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Theme/Theme.qml",
+      "target": "src/prisma/gui/casa/qml/Casa/Theme/Theme.qml",
+      "sha256": "cd08acbff3e8aa1b00aa73703ead6c0afb75d2f262ade1f0c05ac5f63d26990e",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/qml/Casa/Theme/qmldir",
+      "target": "src/prisma/gui/casa/qml/Casa/Theme/qmldir",
+      "sha256": "d979474b0eb6c07bee6ff63b517e95847a74052b73bec7089b17d26fa70cc128",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/resources.py",
+      "target": "src/prisma/gui/casa/resources.py",
+      "sha256": "bfdfada7e02165f7e5dbfd1304d9bb2f221ccb70858a2a3e030b150d6c4e0e5b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/row_extension.py",
+      "target": "src/prisma/gui/casa/row_extension.py",
+      "sha256": "7c591637868cae88caff857f84a783378d21497d44ae1de281e49bbd4b73d629",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/scaffold.py",
+      "target": "src/prisma/gui/casa/scaffold.py",
+      "sha256": "a8a79b12999c58b5d75acde8261b7576279f99fbf71d8775e4401a1a42b922c5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/settings.py",
+      "target": "src/prisma/gui/casa/settings.py",
+      "sha256": "1bbb31cf71323d4dd5a96f9521506be2add05a668142076db86e62dbf98a07a0",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/shell.py",
+      "target": "src/prisma/gui/casa/shell.py",
+      "sha256": "1834db8208fb0d436ebd1a3c081cbd080965c4f0d111d6940fb26acf064648ee",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/shortcuts.py",
+      "target": "src/prisma/gui/casa/shortcuts.py",
+      "sha256": "8ac3846adc7c4c51c0374ea239a87d9eb36f00fc73facf44c98fde63f135d751",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/__init__.py",
+      "target": "src/prisma/gui/casa/style/__init__.py",
+      "sha256": "39c5cd3f08c3c9b5ad73100bd08845b4a88c12b1cfe31ba0520a4c28f6e96063",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/design.py",
+      "target": "src/prisma/gui/casa/style/design.py",
+      "sha256": "b4188a62ead14958f70eb410b438647ecf31b114c808f45a3e602c348e0805be",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/icons.py",
+      "target": "src/prisma/gui/casa/style/icons.py",
+      "sha256": "b16d7b2321fe1693df2216332870873587bf0b856f178324c264cafbed8a04a8",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/popups.py",
+      "target": "src/prisma/gui/casa/style/popups.py",
+      "sha256": "bc63c0b5826c70f554618437c552b809b3db513ca7244b6855e70333fa5c27d5",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/status_pill.py",
+      "target": "src/prisma/gui/casa/style/status_pill.py",
+      "sha256": "3711bb0d71719a0e677d8bf433d8fa97460e77e275be0d7c19a1ef5a7997478b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/symbol_shapes.py",
+      "target": "src/prisma/gui/casa/style/symbol_shapes.py",
+      "sha256": "8a42b4c13f9bdeba0706fd63bf479cc741e89aa340d24106cc436bfa808d3da9",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/symbols.py",
+      "target": "src/prisma/gui/casa/style/symbols.py",
+      "sha256": "a77fef268250eea46ca32e0b1ee709a6df3711e350ab925a3abb6d8a6f7cba30",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/theme.py",
+      "target": "src/prisma/gui/casa/style/theme.py",
+      "sha256": "185932886940b37141ac2d3c797205e31164d73648a04a47d5841c5845d727cc",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/style/theme_colors.py",
+      "target": "src/prisma/gui/casa/style/theme_colors.py",
+      "sha256": "0acaa78b8a60de59df6646dcb2fc6a338516150f720db2385e7bdf9d14c35f8b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/surface.py",
+      "target": "src/prisma/gui/casa/surface.py",
+      "sha256": "6fa49f67ba637ac8a712c6636fda483407becbd6d6876d9926c1138505233098",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/surface_exceptions.json",
+      "target": "src/prisma/gui/casa/surface_exceptions.json",
+      "sha256": "55973d06280c8d8ca02afac95792b9d63f42703d0be91c668382eb9bf8240d9b",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/surface_rules.py",
+      "target": "src/prisma/gui/casa/surface_rules.py",
+      "sha256": "5348ff2a8a208918bd023926cf7a3d0277636c29f5abe01cdabf7ee9e16a70b2",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/table_accessibility.py",
+      "target": "src/prisma/gui/casa/table_accessibility.py",
+      "sha256": "9e046cd1ac8d3d7140e99334439c45bd852d49094f741db9ce6b6fd5e7768972",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/table_state.py",
+      "target": "src/prisma/gui/casa/table_state.py",
+      "sha256": "09c81265a4d2faa54a1baaac059b60b37442e46160aab86c0ac0c5545d4ffdfb",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/table_text.py",
+      "target": "src/prisma/gui/casa/table_text.py",
+      "sha256": "d4aa2737e781eb3b1f3c7d30f9df9e2e5c864e4f509ea8afb052f7b0176228ed",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/text_editing.py",
+      "target": "src/prisma/gui/casa/text_editing.py",
+      "sha256": "32c0a4d6bb8fbfb9c74c3e564e99eda590eb394d666eeba92385d280964c0763",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/tokens.py",
+      "target": "src/prisma/gui/casa/tokens.py",
+      "sha256": "378af73dd73984fa88190bd79eaf294603b27cd233afbf037c1c52987ce25d09",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/translator.py",
+      "target": "src/prisma/gui/casa/translator.py",
+      "sha256": "8f03bdd01e803a64c275df00fb3196c5d6613922330cd38d53c7bed7cf574419",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    },
+    {
+      "source": "qt/template/src/sample_app/gui/casa/window_frame.py",
+      "target": "src/prisma/gui/casa/window_frame.py",
+      "sha256": "3f7130484f3b847d5d57ee479f6231e371720856a9be6110a6c6dc0f60e7d48d",
+      "baseline_version": "f77340f91094e0d45c3d02cc48e78d892a73b52c"
+    }
+  ]
+}

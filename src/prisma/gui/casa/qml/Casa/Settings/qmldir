@@ -1,0 +1,5 @@
+module Casa.Settings
+AppearancePreview 1.0 AppearancePreview.qml
+SettingField 1.0 SettingField.qml
+SettingsKeyboard 1.0 SettingsKeyboard.qml
+SettingsPage 1.0 SettingsPage.qml
