@@ -4,6 +4,7 @@
 import importlib
 import os
 import sys
+import tempfile
 from pathlib import Path
 
 import _userfolders
@@ -19,6 +20,8 @@ def shared(name):
 
 
 _userfolders.watch("prisma", "Prisma")
+# Use the same spelling as subprocesses that resolve their checkout paths.
+tempfile.tempdir = str(Path(tempfile.gettempdir()).resolve())
 TEMP = _userfolders.isolate()
 if TEMP is None:
     TEMP = Path(os.environ['XDG_CONFIG_HOME']).parent
