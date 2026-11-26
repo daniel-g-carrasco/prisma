@@ -1,0 +1,62 @@
+name: Package inventory
+
+on:
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: "43 5 * * 2"
+
+permissions:
+  contents: read
+
+jobs:
+  wheel:
+    name: Wheel inventory (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-2025
+            environment_python: Scripts/python.exe
+          - os: ubuntu-24.04
+            environment_python: bin/python
+    env:
+      QT_QPA_PLATFORM: offscreen
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0
+        with:
+          python-version: "3.12"
+      - name: Install Qt system libraries
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libegl1 libgl1 libopengl0 libxkbcommon0 libdbus-1-3 libxcb-cursor0
+      - name: Build and install the wheel in a clean environment
+        shell: bash
+        env:
+          ENVIRONMENT_PYTHON: ${{ matrix.environment_python }}
+        run: |
+          temp_dir=$(cd "$RUNNER_TEMP" && pwd)
+          python -m pip wheel --no-deps --wheel-dir "$temp_dir/wheels" .
+          python -m venv "$temp_dir/wheel-env"
+          wheel_python="$temp_dir/wheel-env/$ENVIRONMENT_PYTHON"
+          "$wheel_python" -m pip install "$temp_dir"/wheels/prisma-*.whl
+          "$wheel_python" -m pip check
+          "$wheel_python" -m pip list --format=json --exclude pip --exclude setuptools > "$temp_dir/wheel-packages.json"
+          (cd "$temp_dir" && "$wheel_python" -m prisma --smoke-test)
+      - name: Verify and audit the installed dependency set
+        shell: bash
+        run: |
+          temp_dir=$(cd "$RUNNER_TEMP" && pwd)
+          revision=$(git rev-parse HEAD)
+          python tools/release_inventory.py create --revision "$revision" \
+            --wheel-inventory "$temp_dir/wheel-packages.json" "$temp_dir"/wheels/prisma-*.whl
+          python tools/release_inventory.py check --revision "$revision" "$temp_dir"/wheels/prisma-*.whl
+          cat "$temp_dir"/wheels/prisma-*.whl.inventory.json >> "$GITHUB_STEP_SUMMARY"
+          python tools/release_inventory.py audit "$temp_dir"/wheels/prisma-*.whl
