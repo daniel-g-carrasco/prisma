@@ -39,6 +39,22 @@ prisma --smoke-test
 
 `check_public.py` checks the Git index. Stage the intended changes before running it. [Checks](.github/workflows/test.yml) runs on Windows and Linux and also exercises the Linux source launcher.
 
+## Package and security checks
+
+[Security](.github/workflows/security.yml) runs Ruff security rules on the
+Python source and Gitleaks with redacted values on pull request commits.
+[Package inventory](.github/workflows/inventory.yml) builds the current
+Prisma wheel, installs it in a clean Python 3.12 environment on Windows and
+Linux, and smoke-tests it from outside the checkout. The inventory binds the
+wheel digest and build commit to the dependencies installed on each runner.
+The weekly check reruns the dependency resolution and queries OSV for PyPI
+advisories.
+
+Prisma currently provides source installation. The wheel does not contain the
+IFC engine, and the checks cover PyPI package advisories. The Qt libraries
+inside the wheels and any future native distribution require their own
+inventory and advisory coverage.
+
 ## Architecture
 
 Keep Qt in `src/prisma/gui/`. Put computations in `core/`, formats and persistence in `data/`, and independent services in `app/`. Run expensive work through the shared process bridge in `app/work.py`. Update style values in `style/tokens.toml`, then run `python tools/make_style.py`.
